@@ -720,7 +720,7 @@
   </BattleCardAbility>
 
   <BattleCardAbility ID="philipEgo">
-    <Desc>Can only be used at Emotion Level 3 and above</Desc>
+    <Desc>Can only be used at Emotion Level 3+</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="cryingChildPenalty">
