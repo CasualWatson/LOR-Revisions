@@ -471,13 +471,13 @@
   </PassiveDesc>
   <PassiveDesc ID="230023">
     <Name>Oinkie!! Oink!!!</Name> <!-- 오잉크 -->
-    <Desc>At the start of the Act, give 1 Feeble to two random enemies.</Desc>
+    <Desc>At the start of the Act, inflict 1 Feeble on two random enemies.</Desc>
   </PassiveDesc>
   
   <!-- 쐐기 -->
   <PassiveDesc ID="230024">
     <Name>Unrelenting</Name> <!-- 오스카 -->
-    <Desc>Upon taking a lethal blow, reduce all incoming damage including what activated this passive by 25 for the Scene. (Activates once per Act)</Desc>
+    <Desc>Upon taking what would be a lethal blow, reduce all incoming damage including what activated this passive by 25 for the Scene. (Activates once per Act)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230124">
     <Name>Wedge</Name> <!-- 쐐기 전원 -->
