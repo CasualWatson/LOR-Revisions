@@ -694,7 +694,7 @@
           <Teller>Olivier</Teller>
           <Title>Hana South Sec. 3 Fixer</Title>
           <VoiceFile>ch7_Hana_ep1_Olivier_16</VoiceFile>
-          <Content>Did the powers that be determine that us Section 3 should be enough to take care of the Library?</Content>
+          <Content>Did the powers-that-be determine that us Section 3 should be enough to take care of the Library?</Content>
         </Dialog>
         <Dialog ID="66" Model="미리내">
           <Teller>Mirinae</Teller>

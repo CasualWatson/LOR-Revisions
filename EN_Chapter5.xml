@@ -552,13 +552,13 @@
         <Dialog ID="2" Model="발렌틴">
           <Teller>Valentin</Teller>
           <Title>Shi S. Section 2 Fixer</Title>
-          <VoiceFile>ch5_Shi_ep1_Valentin2-01</VoiceFile>
+          <VoiceFile>ch5_Shi_ep1_Valentin2</VoiceFile>
           <Content>He may be a Color, but that does not excuse the severity of a Fixer who doesn’t even belong to our Association setting us all up.</Content>
         </Dialog>
         <Dialog ID="3" Model="발렌틴">
           <Teller>Valentin</Teller>
           <Title>Shi S. Section 2 Fixer</Title>
-          <VoiceFile>ch5_Shi_ep1_Valentin3-01</VoiceFile>
+          <VoiceFile>ch5_Shi_ep1_Valentin3</VoiceFile>
           <Content>He’s doing it so blatantly, too…</Content>
         </Dialog>
         <Dialog ID="4" Model="텐마">
@@ -606,7 +606,7 @@
         <Dialog ID="11" Model="발렌틴">
           <Teller>Valentin</Teller>
           <Title>Shi S. Section 2 Fixer</Title>
-          <VoiceFile>ch5_Shi_ep1_Valentin6-01</VoiceFile>
+          <VoiceFile>ch5_Shi_ep1_Valentin6</VoiceFile>
           <Content>Dammit… He’s leaving us with all these dangerous requests, knowing that we’re fatigued…</Content>
         </Dialog>
         <Dialog ID="12" Model="텐마">
@@ -762,7 +762,7 @@
         <Dialog ID="37" Model="발렌틴">
           <Teller>Valentin</Teller>
           <Title>Shi S. Section 2 Fixer</Title>
-          <VoiceFile>ch5_Shi_ep1_Valentin14-01</VoiceFile>
+          <VoiceFile>ch5_Shi_ep1_Valentin14</VoiceFile>
           <Content>Are you suggesting that the books of the Musicians could contain information about the Blue Reverberation?</Content>
         </Dialog>
         <Dialog ID="38" Model="유진">
@@ -780,13 +780,13 @@
         <Dialog ID="40" Model="발렌틴">
           <Teller>Valentin</Teller>
           <Title>Shi S. Section 2 Fixer</Title>
-          <VoiceFile>ch5_Shi_ep1_Valentin15-01</VoiceFile>
+          <VoiceFile>ch5_Shi_ep1_Valentin15</VoiceFile>
           <Content>…I understand your intention. But acquiring that information isn’t going to be the end of it.</Content>
         </Dialog>
         <Dialog ID="41" Model="발렌틴">
           <Teller>Valentin</Teller>
           <Title>Shi S. Section 2 Fixer</Title>
-          <VoiceFile>ch5_Shi_ep1_Valentin16-01</VoiceFile>
+          <VoiceFile>ch5_Shi_ep1_Valentin16</VoiceFile>
           <Content>What exactly are you planning to do?</Content>
         </Dialog>
         <Dialog ID="42" Model="유진">
@@ -804,7 +804,7 @@
         <Dialog ID="44" Model="발렌틴">
           <Teller>Valentin</Teller>
           <Title>Shi S. Section 2 Fixer</Title>
-          <VoiceFile>ch5_Shi_ep1_Valentin17-01</VoiceFile>
+          <VoiceFile>ch5_Shi_ep1_Valentin17</VoiceFile>
           <Content>You’ve always been so self-sacrificing, director…</Content>
         </Dialog>
         <Dialog ID="45" Model="유진">
