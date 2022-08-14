@@ -421,10 +421,10 @@
   <!-- shi -->
   <!-- card ability-->
   <BattleCardAbility ID="powerUp2speed6">
-    <Desc>[On Use] If Speed is 6 or higher, all dice on this page gain +2 Power</Desc>
+    <Desc>[On Use] If Speed is 6+, all dice on this page gain +2 Power</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerUp2speed7">
-    <Desc>[On Use] If Speed is 7 or higher, all dice on this page gain +2 Power</Desc>
+    <Desc>[On Use] If Speed is 7+, all dice on this page gain +2 Power</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerUp1Hp">
     <Desc>[On Use] If HP is at 25% or lower, all dice on this page gain +1 Power</Desc>
@@ -438,7 +438,7 @@
 
   <!-- dice ability -->
   <BattleCardAbility ID="yujin">
-    <Desc>If the natural roll is Max, and is 4 or higher, add +45 power</Desc>
+    <Desc>If the natural roll is Max, and is 4+, add +45 power</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="energy1hp">
     <Desc>[On Use] If HP is at 50% or lower, restore 1 Light</Desc>
@@ -519,7 +519,7 @@
     <Desc>[On Use] If Singleton, draw 3 pages</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerUp2fullCard">
-    <Desc>[On Use] If there are 7 or more pages in hand, all dice on this page gain +2 Power</Desc>
+    <Desc>[On Use] If there are 7+ pages in hand, all dice on this page gain +2 Power</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerDown3thisRound">
     <Desc>[Combat Start] All dice the user plays lose 3 Power for this Scene</Desc>
@@ -647,13 +647,13 @@
   </BattleCardAbility>
 
   <BattleCardAbility ID="debufsSmoke">
-    <Desc>[On Hit] If target has 7 or more Smoke, inflict 2 Paralysis and 1 Feeble</Desc>
+    <Desc>[On Hit] If target has 7+ Smoke, inflict 2 Paralysis and 1 Feeble</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="debufsSmokeRemake">
-    <Desc>[On Hit] If target has 4 or more Smoke, inflict 2 Paralysis and 1 Feeble</Desc>
+    <Desc>[On Hit] If target has 4+ Smoke, inflict 2 Paralysis and 1 Feeble</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="drawSmoke">
-    <Desc>[On Hit] If target has 3 or more Smoke, draw 2 pages</Desc>
+    <Desc>[On Hit] If target has 3+ Smoke, draw 2 pages</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="smokeOnly1">
@@ -738,7 +738,7 @@
     <Desc>[On Use] All dice on this page gain +1 Power for every 2 Emotion Levels</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="costDown1emotion3">
-    <Desc>Costs 1 less at Emotion Level 3 or higher</Desc>
+    <Desc>Costs 1 less at Emotion Level 3+</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="dmgUp1thisRound">
     <Desc>[Combat Start] Offensive dice deal +1 damage for this Scene</Desc>
@@ -755,7 +755,7 @@
   </BattleCardAbility>
 
   <BattleCardAbility ID="endurance1emotion">
-    <Desc>[On Use] Gain 1 Endurance next Scene. At Emotion Level 3 or higher, gain 2 Endurance instead.</Desc>
+    <Desc>[On Use] Gain 1 Endurance next Scene. At Emotion Level 3+, gain 2 Endurance instead.</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="lowelonly">
     <Desc>[On Use] Remove all dice from this page. Add a Mass Attack page to hand that can only be used next Scene.</Desc>
@@ -886,7 +886,7 @@
     <Desc>[On Use] Gain 4 Smoke and draw 1 page</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="smokePowerUp">
-    <Desc>[On Use] If target has 2 or more Smoke, all Offensive dice on this page gain +1 Power</Desc>
+    <Desc>[On Use] If target has 2+ Smoke, all Offensive dice on this page gain +1 Power</Desc>
   </BattleCardAbility>
 
   <!-- 아르갈리아 -->
@@ -1007,7 +1007,7 @@
     <Desc>[On Hit] Inflict 1 Burn 3 times</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="burnSpread">
-    <Desc>[On Hit] If target has 4 or more Burn, inflict 1 Burn to all enemies</Desc>
+    <Desc>[On Hit] If target has 4+ Burn, inflict 1 Burn to all enemies</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="burnPlus">
     <Desc>[Combat Start] When inflicting Burn using Combat Pages this Scene, inflict 1 additional stack</Desc>
@@ -1054,13 +1054,13 @@
   <!-- kali -->
   <!-- card ability -->
   <BattleCardAbility ID="kaliNormalAttackJ">
-    <Desc>If 8 or more damage was dealt with this page, draw 1 page and reduce the Cost of all other 'Upstanding Slashes' by 1</Desc>
+    <Desc>If 8+ damage was dealt with this page, draw 1 page and reduce the Cost of all other 'Upstanding Slashes' by 1</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="kaliNormalAttackZ">
-    <Desc>If 8 or more damage was dealt with this page, draw 1 page and reduce the Cost of all other 'Spears' by 1</Desc>
+    <Desc>If 8+ damage was dealt with this page, draw 1 page and reduce the Cost of all other 'Spears' by 1</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="kaliNormalAttackH">
-    <Desc>If 8 or more damage was dealt with this page, restore 2 Light and reduce the Cost of all other 'Level Slashes' by 1</Desc>
+    <Desc>If 8+ damage was dealt with this page, restore 2 Light and reduce the Cost of all other 'Level Slashes' by 1</Desc>
   </BattleCardAbility>
   
   <BattleCardAbility ID="kali">
@@ -1116,7 +1116,7 @@
     <Desc>[On Hit] Seal a Speed die of target for next Scene</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="forbidCardAtk">
-    <Desc>[On Hit] Increase Cost of target's pages whose original Cost is 4 or higher by 2 for the next Scene</Desc>
+    <Desc>[On Hit] Increase Cost of target's pages whose original Cost is 4+ by 2 for the next Scene</Desc>
   </BattleCardAbility>
 
   <!-- R 사 -->
@@ -1140,7 +1140,7 @@
     <Desc>[On Use] Spend 20 Charge to boost Power of all dice on this page by +10</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="maximDice">
-    <Desc>[On Hit] If 20 or more damage was dealt, deal 15 bonus damage to target</Desc>
+    <Desc>[On Hit] If 20+ damage was dealt, deal 15 bonus damage to target</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="nicolaiDice">
     <Desc>If target's HP is at 50% or lower, add +5 Power</Desc>
@@ -1214,10 +1214,10 @@
 
   <!-- rabbit added -->
   <BattleCardAbility ID="powerUp1speed6exhaust">
-    <Desc>[On Use] If Speed is 6 or higher, all dice on this page gain +1 Power</Desc>
+    <Desc>[On Use] If Speed is 6+, all dice on this page gain +1 Power</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="powerUp2speed6exhaust">
-    <Desc>[On Use] If Speed is 6 or higher, all dice on this page gain +2 Power</Desc>
+    <Desc>[On Use] If Speed is 6+, all dice on this page gain +2 Power</Desc>
   </BattleCardAbility>
 
   <!-- geburah ego -->
@@ -1463,15 +1463,15 @@
   
 <!-- yan enemy -->
   <BattleCardAbility ID="yanEnemyBuf1">
-    <Desc>Only used when there's a Hand with 31 or more HP</Desc>
+    <Desc>Only used when there's a Hand with 31+ HP</Desc>
     <Desc>[Combat Start] If target is a Hand, give it 3 Strength</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="yanEnemyBuf2">
-    <Desc>Only used when there's a Hand with 31 or more HP</Desc>
+    <Desc>Only used when there's a Hand with 31+ HP</Desc>
     <Desc>[Combat Start] If target is a Hand, give it 3 Protection</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="yanEnemyBuf3">
-    <Desc>Only used when there's a Hand with 31 or more HP</Desc>
+    <Desc>Only used when there's a Hand with 31+ HP</Desc>
     <Desc>[Combat Start] The target and any dice clashing with them are not influenced by Power gain/loss for this Scene</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="yanEnemyBuf4">
@@ -1603,7 +1603,7 @@
     <Desc>[On Use] Discard a random page; draw 2 pages at the start of the next Scene</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="hanaQuick">
-    <Desc>[On Use] Gain 1 Haste next Scene; If Speed is 7 or higher, all dice on this page gain +1 Power</Desc>
+    <Desc>[On Use] Gain 1 Haste next Scene; If Speed is 7+, all dice on this page gain +1 Power</Desc>
   </BattleCardAbility>
 
   <!-- hana passive -->
@@ -1733,7 +1733,7 @@
   </BattleCardAbility>
   <!-- remake -->
   <BattleCardAbility ID="argaliaDownWithCond">
-    <Desc>[On Hit] If target has 6 or more Vibration, reduce it by 1</Desc>
+    <Desc>[On Hit] If target has 6+ Vibration, reduce it by 1</Desc>
   </BattleCardAbility>
     
   <BattleCardAbility ID="argaliaChangeVibrate">
@@ -1864,7 +1864,7 @@
     <Desc>[On Use] All Offensive dice on this page gain '[On Hit] Gain 1 Negative Emotion Point'</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="philip_powerup2bytargetburn8">
-    <Desc>[On Use] If target has 8 or more Burn, gain +2 Power</Desc>
+    <Desc>[On Use] If target has 8+ Burn, gain +2 Power</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="philip_arrest1atk">
     <Desc>[On Hit] Inflict 1 Restraint</Desc>

@@ -573,7 +573,7 @@
     </BattleCardDesc>
     <BattleCardDesc ID="9904305">
       <LocalizedName>Pleasure</LocalizedName>
-      <Ability>At the start of the Scene, restore 1 Light. If the character takes a hit when three or more copies of this page are in hand, take 20 damage and exhaust all copies of Pleasure.</Ability>
+      <Ability>At the start of the Scene, restore 1 Light. If the character takes a hit when 3+ copies of this page are in hand, take 20 damage and exhaust all copies of Pleasure.</Ability>
     </BattleCardDesc>
 
     <BattleCardDesc ID="9904411">
@@ -626,7 +626,7 @@
     </BattleCardDesc>
     <BattleCardDesc ID="9904502">
       <LocalizedName>The Second Movement</LocalizedName>
-      <Ability>If two or more attacks connect, targets with 'Fervent Adoration' will not act this Scene</Ability>
+      <Ability>If 2+ attacks connect, targets with 'Fervent Adoration' will not act this Scene</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9904503">
       <LocalizedName>The Third Movement</LocalizedName>
@@ -635,7 +635,7 @@
     </BattleCardDesc>
     <BattleCardDesc ID="9904504">
       <LocalizedName>The Fourth Movement</LocalizedName>
-      <Ability>If two or more attacks connect, target's Light is set to 0</Ability>
+      <Ability>If 2+ attacks connect, target's Light is set to 0</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9904505">
       <LocalizedName>Finale</LocalizedName>
@@ -1311,18 +1311,18 @@ If any ally is hit, deal 10 damage to all librarians and recover 20 HP.</Ability
   </BattleCardDesc>  
  <BattleCardDesc ID="9906421">
     <LocalizedName>Bloodsucking</LocalizedName>
-    <Ability>If Speed is 5 or higher, all dice on this page gain +2 Power</Ability>
+    <Ability>If Speed is 5+, all dice on this page gain +2 Power</Ability>
 	<Behaviour ID="2">[On Hit] Gain 1 Blood next Scene; Inflict 2 Bleed</Behaviour>
   </BattleCardDesc>  
   <BattleCardDesc ID="9906422">
     <LocalizedName>Digging Teeth</LocalizedName>
-    <Ability>If Speed is 5 or higher, all dice on this page gain +2 Power</Ability>
+    <Ability>If Speed is 5+, all dice on this page gain +2 Power</Ability>
 	<Behaviour ID="0">[On Hit] Inflict 1 Bleed</Behaviour>
 	<Behaviour ID="1">[On Hit] Inflict 1 Bleed</Behaviour>
   </BattleCardDesc>    
   <BattleCardDesc ID="9906423">
     <LocalizedName>Avid Thirst</LocalizedName>
-    <Ability>If Speed is 5 or higher, all dice on this page gain +2 Power</Ability>
+    <Ability>If Speed is 5+, all dice on this page gain +2 Power</Ability>
 	<Behaviour ID="1">[On Hit] Recover 5 HP; Gain 3 Blood next Scene; Inflict 4 Fragile</Behaviour>
   </BattleCardDesc>  
 
@@ -1347,7 +1347,7 @@ If any ally is hit, deal 10 damage to all librarians and recover 20 HP.</Ability
     </BattleCardDesc>
     <BattleCardDesc ID="9906505">
       <LocalizedName>Terror</LocalizedName>
-      <Ability>Exhausts on use. If the character has three or more copies of this page in hand at the start of the Scene, take 10 damage and Stagger damage for every copy of this page and become Immobilized; then all copies of Terror are shuffled into the deck.</Ability>
+      <Ability>Exhausts on use. If the character has 3+ copies of this page in hand at the start of the Scene, take 10 damage and Stagger damage for every copy of this page and become Immobilized; then all copies of Terror are shuffled into the deck.</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9906511">
       <LocalizedName>Hard Cocoon</LocalizedName>
@@ -2245,7 +2245,7 @@ If any ally is hit, deal 10 damage to all librarians and recover 20 HP.</Ability
       <LocalizedName>Slam</LocalizedName>
       <Ability>Cost is raised by 1 after losing a clash against a page with a lower Cost </Ability>
       <Behaviour ID="0">[On Clash Win] Lower max value of opponent's next die by 3</Behaviour>
-      <Behaviour ID="1">[On Hit] Lower Cost of a page in user's hand whose Cost is 3 or higher by 1</Behaviour>
+      <Behaviour ID="1">[On Hit] Lower Cost of a page in user's hand whose Cost is 3+ by 1</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9910522">
       <LocalizedName>Break</LocalizedName>

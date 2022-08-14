@@ -36,7 +36,7 @@ When hit, inflict 1-3 Burn to the attacker, and gain a buff at a 40% chance next
       <CardName>Matchlight</CardName>
       <AbilityDesc>[Single Ally]
 The first two Combat Pages the librarian uses after this Abnormality page is selected gain the 'Matchlight' status (Excludes [On Play] pages). Whenever the librarian uses a page with 'Matchlight', gain 1 'Ember'.
-Pages with 'Matchlight' become stronger based on the amount of Ember; however, they have a 25% chance to damage the user if Ember is at 4 or higher.</AbilityDesc>
+Pages with 'Matchlight' become stronger based on the amount of Ember; however, they have a 25% chance to damage the user if Ember is 4+.</AbilityDesc>
       <FlaborText>“Well, she’s like a ticking time bomb. No one can tell if she’s in a good mood or not.”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Step by step… Burn into pitch black char.</Dialogue>
@@ -1075,7 +1075,7 @@ Deal +2-5 Stagger damage against targets with Bind.</AbilityDesc>
       <Abnormality>The Snow Queen</Abnormality>
       <CardName>A Kiss</CardName>
       <AbilityDesc>[Single Ally]
-After winning 2 or more clashes with a single Combat Page, inflict Ice Splinter to the opponent.
+After winning 2+ clashes with a single Combat Page, inflict Ice Splinter to the opponent.
 At the end of each Scene, characters with 3 or more Ice Splinters become Immobilized for the next Scene.
       </AbilityDesc>
       <FlaborText>The Snow Queen’s kiss froze his heart, and he couldn’t feel the cold anymore.</FlaborText>
@@ -1638,7 +1638,7 @@ The copied pages are exhausted on use.
       <Abnormality>Warm-hearted Woodsman</Abnormality>
       <CardName>A Warm Heart</CardName>
       <AbilityDesc>[Single Ally]
-At the start of the Scene, boost the Power of Offensive dice by +1-2 for the Scene if the librarian has 3 or more Light.</AbilityDesc>
+At the start of the Scene, boost the Power of Offensive dice by +1-2 for the Scene if the librarian has 3+ Light.</AbilityDesc>
       <FlaborText>In anger, he swung his axe through the wizard’s heart. The warm heart was pulsing vigorously.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">This is… how it feels to have a thumping heart…</Dialogue>
@@ -1666,7 +1666,7 @@ When attacking a target that has more Light than the librarian, Offensive dice g
       <Abnormality>Warm-hearted Woodsman</Abnormality>
       <CardName>Cardiae</CardName>
       <AbilityDesc>[Single Ally]
-After dealing 15 or more damage to enemies in a single Scene, reduce the Cost of the two most expensive pages in hand by 1.
+After dealing 15+ damage to enemies in a single Scene, reduce the Cost of the two most expensive pages in hand by 1.
 On kill, reduce the Cost to 0 instead.
 The Cost reduction is reset when the pages are used.</AbilityDesc>
       <FlaborText>There will never be enough hearts. Once a Woodsman, he now fells people instead of trees.</FlaborText>

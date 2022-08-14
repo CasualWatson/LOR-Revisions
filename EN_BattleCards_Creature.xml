@@ -1052,18 +1052,18 @@
   </BattleCardDesc>  
  <BattleCardDesc ID="960421">
     <LocalizedName>Bloodsucking</LocalizedName>
-    <Ability>If Speed is 5 or higher, all dice on this page gain +2 Power</Ability>
+    <Ability>If Speed is 5+, all dice on this page gain +2 Power</Ability>
 	<Behaviour ID="2">[On Hit] Gain 1 Blood next Scene; Inflict 2 Bleed</Behaviour>
   </BattleCardDesc>  
   <BattleCardDesc ID="960422">
     <LocalizedName>Digging Teeth</LocalizedName>
-    <Ability>If Speed is 5 or higher, all dice on this page gain +2 Power</Ability>
+    <Ability>If Speed is 5+, all dice on this page gain +2 Power</Ability>
 	<Behaviour ID="0">[On Hit] Inflict 2 Bleed</Behaviour>
 	<Behaviour ID="1">[On Hit] Inflict 2 Bleed</Behaviour>
   </BattleCardDesc>    
   <BattleCardDesc ID="960423">
     <LocalizedName>Avid Thirst</LocalizedName>
-    <Ability>If Speed is 5 or higher, all dice on this page gain +2 Power</Ability>
+    <Ability>If Speed is 5+, all dice on this page gain +2 Power</Ability>
 	<Behaviour ID="1">[On Hit] Recover 5 HP; Gain 3 Blood next Scene; Inflict 4 Fragile</Behaviour>
   </BattleCardDesc>
 
