@@ -2,205 +2,205 @@
 <PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<PassiveDesc ID="1">
 		<Name>Slash Boost Ⅰ</Name>
-		<Desc>25% chance to boost Slash damage by +1</Desc>
+		<Desc>25% chance to boost Slash damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="2">
 		<Name>Pierce Boost Ⅰ</Name>
-		<Desc>25% chance to boost Pierce damage by +1</Desc>
+		<Desc>25% chance to boost Pierce damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="3">
 		<Name>Blunt Boost Ⅰ</Name>
-		<Desc>25% chance to boost Blunt damage by +1</Desc>
+		<Desc>25% chance to boost Blunt damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="4">
 		<Name>Slash Stunner Ⅰ</Name>
-		<Desc>25% chance to boost Slash stagger damage by +1</Desc>
+		<Desc>25% chance to boost Slash stagger damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="5">
 		<Name>Pierce Stunner Ⅰ</Name>
-		<Desc>25% chance to boost Pierce stagger damage by +1</Desc>
+		<Desc>25% chance to boost Pierce stagger damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="6">
 		<Name>Blunt Stunner Ⅰ</Name>
-		<Desc>25% chance to boost Blunt stagger damage by +1</Desc>
+		<Desc>25% chance to boost Blunt stagger damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="7">
 		<Name>Slash Mastery Ⅰ</Name>
-		<Desc>10% chance to boost Slash dice Power by +1</Desc>
+		<Desc>10% chance to boost Slash dice Power by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="8">
 		<Name>Pierce Mastery Ⅰ</Name>
-		<Desc>10% chance to boost Pierce dice Power by +1</Desc>
+		<Desc>10% chance to boost Pierce dice Power by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="9">
 		<Name>Blunt Mastery Ⅰ</Name>
-		<Desc>10% chance to boost Blunt dice Power by +1</Desc>
+		<Desc>10% chance to boost Blunt dice Power by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="10">
 		<Name>Block Mastery Ⅰ</Name>
-		<Desc>20% chance to boost Block dice Power by +1</Desc>
+		<Desc>20% chance to boost Block dice Power by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="11">
 		<Name>Evade Mastery Ⅰ</Name>
-		<Desc>20% chance to boost Evade dice Power by +1</Desc>
+		<Desc>20% chance to boost Evade dice Power by +1.</Desc>
 	</PassiveDesc>
   <PassiveDesc ID="12">
     <Name>Blunt Overpower Ⅰ</Name>
-    <Desc>After winning a clash using a Blunt die, 35% chance to deal 1 bonus damage</Desc>
+    <Desc>After winning a clash using a Blunt die, 35% chance to deal 1 bonus damage.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="13">
     <Name>Pierce Overpower Ⅰ</Name>
-    <Desc>After winning a clash using a Pierce die, 35% chance to deal 1 bonus damage</Desc>
+    <Desc>After winning a clash using a Pierce die, 35% chance to deal 1 bonus damage.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="14">
     <Name>Slash Overpower Ⅰ</Name>
-    <Desc>After winning a clash using a Slash die, 35% chance to deal 1 bonus damage</Desc>
+    <Desc>After winning a clash using a Slash die, 35% chance to deal 1 bonus damage.</Desc>
   </PassiveDesc>
 
 
 
   <PassiveDesc ID="1001">
 		<Name>Slash Boost Ⅱ</Name>
-		<Desc>30% chance to boost Slash damage by +1</Desc>
+		<Desc>30% chance to boost Slash damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1002">
 		<Name>Pierce Boost Ⅱ</Name>
-		<Desc>30% chance to boost Pierce damage by +1</Desc>
+		<Desc>30% chance to boost Pierce damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1003">
 		<Name>Blunt Boost Ⅱ</Name>
-		<Desc>30% chance to boost Blunt damage by +1</Desc>
+		<Desc>30% chance to boost Blunt damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1004">
 		<Name>Slash Stunner Ⅱ</Name>
-		<Desc>30% chance to boost Slash stagger damage by +1</Desc>
+		<Desc>30% chance to boost Slash stagger damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1005">
 		<Name>Pierce Stunner Ⅱ</Name>
-		<Desc>30% chance to boost Pierce stagger damage by +1</Desc>
+		<Desc>30% chance to boost Pierce stagger damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1006">
 		<Name>Blunt Stunner Ⅱ</Name>
-		<Desc>30% chance to boost Blunt stagger damage by +1</Desc>
+		<Desc>30% chance to boost Blunt stagger damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1007">
 		<Name>Slash Mastery Ⅱ</Name>
-		<Desc>12% chance to boost Slash dice Power by +1</Desc>
+		<Desc>12% chance to boost Slash dice Power by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1008">
 		<Name>Pierce Mastery Ⅱ</Name>
-		<Desc>12% chance to boost Pierce dice Power by +1</Desc>
+		<Desc>12% chance to boost Pierce dice Power by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1009">
 		<Name>Blunt Mastery Ⅱ</Name>
-		<Desc>12% chance to boost Blunt dice Power by +1</Desc>
+		<Desc>12% chance to boost Blunt dice Power by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1010">
 		<Name>Block Mastery Ⅱ</Name>
-		<Desc>24% chance to boost Block dice Power by +1</Desc>
+		<Desc>24% chance to boost Block dice Power by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="1011">
 		<Name>Evade Mastery Ⅱ</Name>
-		<Desc>24% chance to boost Evade dice Power by +1</Desc>
+		<Desc>24% chance to boost Evade dice Power by +1.</Desc>
 	</PassiveDesc>
    <PassiveDesc ID="1012">
     <Name>Blunt Overpower Ⅱ</Name>
-    <Desc>After winning a clash using a Blunt die, 45% chance to deal 1 bonus damage</Desc>
+    <Desc>After winning a clash using a Blunt die, 45% chance to deal 1 bonus damage.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1013">
     <Name>Slash Overpower Ⅱ</Name>
-    <Desc>After winning a clash using a Slash die, 45% chance to deal 1 bonus damage</Desc>
+    <Desc>After winning a clash using a Slash die, 45% chance to deal 1 bonus damage.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1014">
     <Name>Pierce Overpower Ⅱ</Name>
-    <Desc>After winning a clash using a Pierce die, 45% chance to deal 1 bonus damage</Desc>
+    <Desc>After winning a clash using a Pierce die, 45% chance to deal 1 bonus damage.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="2001">
     <Name>Slash Boost Ⅲ</Name>
-    <Desc>35% chance to boost Slash damage by +1</Desc>
+    <Desc>35% chance to boost Slash damage by +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2002">
     <Name>Pierce Boost Ⅲ</Name>
-    <Desc>35% chance to boost Pierce damage by +1</Desc>
+    <Desc>35% chance to boost Pierce damage by +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2003">
     <Name>Blunt Boost Ⅲ</Name>
-    <Desc>35% chance to boost Blunt damage by +1</Desc>
+    <Desc>35% chance to boost Blunt damage by +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2004">
     <Name>Slash Stunner Ⅲ</Name>
-    <Desc>35% chance to boost Slash stagger damage by +1</Desc>
+    <Desc>35% chance to boost Slash stagger damage by +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2005">
     <Name>Pierce Stunner Ⅲ</Name>
-    <Desc>35% chance to boost Pierce stagger damage by +1</Desc>
+    <Desc>35% chance to boost Pierce stagger damage by +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2006">
     <Name>Blunt Stunner Ⅲ</Name>
-    <Desc>35% chance to boost Blunt stagger damage by +1</Desc>
+    <Desc>35% chance to boost Blunt stagger damage by +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2007">
     <Name>Slash Mastery Ⅲ</Name>
-    <Desc>14% chance to boost Slash dice Power by +1</Desc>
+    <Desc>14% chance to boost Slash dice Power by +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2008">
     <Name>Pierce Mastery Ⅲ</Name>
-    <Desc>14% chance to boost Pierce dice Power by +1</Desc>
+    <Desc>14% chance to boost Pierce dice Power by +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2009">
     <Name>Blunt Mastery Ⅲ</Name>
-    <Desc>14% chance to boost Blunt dice Power by +1</Desc>
+    <Desc>14% chance to boost Blunt dice Power by +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2010">
     <Name>Block Mastery Ⅲ</Name>
-    <Desc>28% chance to boost Block dice Power by +1</Desc>
+    <Desc>28% chance to boost Block dice Power by +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2011">
     <Name>Evade Mastery Ⅲ</Name>
-    <Desc>28% chance to boost Evade dice Power by +1</Desc>
+    <Desc>28% chance to boost Evade dice Power by +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2012">
     <Name>Blunt Overpower Ⅲ</Name>
-    <Desc>After winning a clash using a Blunt die, 60% chance to deal 1 bonus damage</Desc>
+    <Desc>After winning a clash using a Blunt die, 60% chance to deal 1 bonus damage.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2013">
     <Name>Slash Overpower Ⅲ</Name>
-    <Desc>After winning a clash using a Slash die, 60% chance to deal 1 bonus damage</Desc>
+    <Desc>After winning a clash using a Slash die, 60% chance to deal 1 bonus damage.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="2014">
     <Name>Pierce Overpower Ⅲ</Name>
-    <Desc>After winning a clash using a Pierce die, 60% chance to deal 1 bonus damage</Desc>
+    <Desc>After winning a clash using a Pierce die, 60% chance to deal 1 bonus damage.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="3007">
     <Name>Slash Mastery</Name>
-    <Desc>Slash Dice Power +1</Desc>
+    <Desc>Slash Dice Power +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="3008">
     <Name>Pierce Mastery</Name>
-    <Desc>Pierce Dice Power +1</Desc>
+    <Desc>Pierce Dice Power +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="3009">
     <Name>Blunt Mastery</Name>
-    <Desc>Blunt Dice Power +1</Desc>
+    <Desc>Blunt Dice Power +1.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="10001">
     <Name>Speed</Name>
-    <Desc>Speed Dice Slot +1 (Cannot Overlap)</Desc>
+    <Desc>Speed Dice Slot +1. (Cannot Overlap)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10002">
     <Name>Ranged Only</Name>
-    <Desc>Can only use Ranged Combat Pages</Desc>
+    <Desc>Can only use Ranged Combat Pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10003">
     <Name>Ranged</Name>
-    <Desc>Can use Ranged Combat Pages</Desc>
+    <Desc>Can use Ranged Combat Pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10004">
     <Name>Speed Ⅱ</Name>
-    <Desc>Speed Dice Slot +2 (Cannot Overlap)</Desc>
+    <Desc>Speed Dice Slot +2. (Cannot Overlap)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10005">
     <Name>The Red Mist</Name>
@@ -221,151 +221,151 @@
   
 	<PassiveDesc ID="200004">
 		<Name>Half-baked Courage</Name>
-		<Desc>When an ally dies, gain 1 Strength next Scene</Desc>
+		<Desc>When an ally dies, gain 1 Strength next Scene.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="200006">
 		<Name>Yun’s Hunch</Name>
-    <Desc>Boost the max value of Evade dice by +3 at a 50% chance</Desc>
+    <Desc>Boost the max value of Evade dice by +3 at a 50% chance.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="200005">
 		<Name>The Art of Defense</Name>
-    <Desc>Boost the max value of Defensive dice by +3 at a 25% chance</Desc>
+    <Desc>Boost the max value of Defensive dice by +3 at a 25% chance.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="201001">
 		<Name>Slash of a Grade 9 Fixer</Name>
-		<Desc>50% chance to boost Slash damage by +1</Desc>
+		<Desc>50% chance to boost Slash damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="201002">
 		<Name>Knock of a Grade 9 Fixer</Name>
-		<Desc>50% chance to boost Blunt damage by +1</Desc>
+		<Desc>50% chance to boost Blunt damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="201003">
 		<Name>Thrust of a Grade 9 Fixer</Name>
-		<Desc>50% chance to boost Pierce damage by +1</Desc>
+		<Desc>50% chance to boost Pierce damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="200007">
 		<Name>Electric Shock</Name>
-		<Desc>On a successful attack, inflict 1 Paralysis at a 25% chance next Scene (Once per target per Scene)</Desc>
+		<Desc>On a successful hit, inflict 1 Paralysis at a 25% chance next Scene. (Once per target per Scene)</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="200010">
 		<Name>Hook</Name>
-		<Desc>Upon defeating an enemy, gain 1 Strength next Scene</Desc>
+		<Desc>Upon defeating an enemy, gain 1 Strength next Scene.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="210002">
 		<Name>Instant Cooking</Name>
-		<Desc>Recover 10% HP upon defeating an enemy (Max. 12)</Desc>
+		<Desc>Recover 10% HP upon defeating an enemy. (Max. 12)</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="210001">
 		<Name>Emergency Rations</Name>
-		<Desc>Recover 2 HP at the start of each Scene</Desc>
+		<Desc>Recover 2 HP at the start of each Scene.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="210003">
 		<Name>Talent</Name>
-		<Desc>Deal +1 Stagger damage against enemies with slower Speed</Desc>
+		<Desc>Deal +1 Stagger damage against enemies with slower Speed.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="210006">
 		<Name>Flaming Bat</Name>
-		<Desc>50% chance to inflict 1 Burn on a successful attack</Desc>
+		<Desc>50% chance to inflict 1 Burn on a successful attack.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="211005">
 		<Name>Penetration</Name>
-		<Desc>50% chance to boost Pierce damage by +1</Desc>
+		<Desc>50% chance to boost Pierce damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="211007">
 		<Name>Downward Slash</Name>
-		<Desc>50% chance to boost Slash damage by +1</Desc>
+		<Desc>50% chance to boost Slash damage by +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="211003">
 		<Name>Open Wound</Name>
-		<Desc>Deal +1 damage against enemies with Bleed</Desc>
+		<Desc>Deal +1 damage against enemies with Bleed.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221001">
 		<Name>Keeping in Stride</Name>
-		<Desc>Recover 1 HP upon winning a clash</Desc>
+		<Desc>Recover 1 HP upon winning a clash.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221002">
 		<Name>Keeping in Stride</Name>
-		<Desc>Recover 1 HP upon winning a clash</Desc>
+		<Desc>Recover 1 HP upon winning a clash.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220001">
 		<Name>Calmness</Name>
-    <Desc>On clash win, boost the max value of the next die by +3 at a 25% chance</Desc>
+    <Desc>On clash win, boost the max value of the next die by +3 at a 25% chance.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220002">
 		<Name>Zwei Swordsmanship Ⅰ</Name>
-		<Desc>Slash Damage +1</Desc>
+		<Desc>Slash Damage +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221003">
 		<Name>Zwei Swordsmanship Ⅱ</Name>
-		<Desc>Slash Stagger Damage +1</Desc>
+		<Desc>Slash Stagger Damage +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220004">
 		<Name>Your Shield</Name>
-		<Desc>Defensive Dice Power +1</Desc>
+		<Desc>Defensive Dice Power +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220003">
 		<Name>Minimum Offense</Name>
-		<Desc>Slash Stagger Damage +1</Desc>
+		<Desc>Slash Stagger Damage +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221004">
 		<Name>Zwei Swordsmanship Ⅲ</Name>
-		<Desc>Pierce Damage +2</Desc>
+		<Desc>Pierce Damage +2.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220006">
 		<Name>Margin</Name>
-		<Desc>At the end of each Scene, restore 1 Light and draw 1 page if the hand is empty</Desc>
+		<Desc>At the end of each Scene, restore 1 Light and draw 1 page if the hand is empty.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220005">
 		<Name>Best Choice</Name>
-		<Desc>Recover 3 HP whenever the character discards a page</Desc>
+		<Desc>Recover 3 HP whenever the character discards a page.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220007">
 		<Name>In Times Like These!</Name>
-		<Desc>If 3 or fewer pages are in-hand at the end of the Scene, gain 1 Strength next Scene</Desc>
+		<Desc>If 3 or fewer pages are in-hand at the end of the Scene, gain 1 Strength next Scene.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220008">
 		<Name>Restfulness</Name>
-		<Desc>Restore 1 Light at the end of a Scene if the character did not use any pages that Scene</Desc>
+		<Desc>Restore 1 Light at the end of a Scene if the character did not use any pages that Scene.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220010">
 		<Name>Deep Breaths</Name>
-		<Desc>At the start of each Scene, restore 1 Light at a 25% chance</Desc>
+		<Desc>At the start of each Scene, restore 1 Light at a 25% chance.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="220009">
 		<Name>Double Kick</Name>
-		<Desc>Deal 1 damage to opponent upon winning a clash</Desc>
+		<Desc>Deal 1 damage to opponent upon winning a clash.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221005">
 		<Name>Punch to the Solar Plexus</Name>
-		<Desc>Blunt Damage +2</Desc>
+		<Desc>Blunt Damage +2.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221007">
 		<Name>Slashing Prowess of a Grade 8 Fixer</Name>
-		<Desc>Slash Stagger Damage +1</Desc>
+		<Desc>Slash Stagger Damage +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221009">
 		<Name>Piercing Prowess of a Grade 8 Fixer</Name>
-		<Desc>Pierce Stagger Damage +1</Desc>
+		<Desc>Pierce Stagger Damage +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221010">
 		<Name>Slashing Prowess of a Grade 7 Fixer</Name>
-		<Desc>Slash Stagger Damage +2</Desc>
+		<Desc>Slash Stagger Damage +2.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221012">
 		<Name>Piercing Prowess of a Grade 7 Fixer</Name>
-		<Desc>Pierce Stagger Damage +2</Desc>
+		<Desc>Pierce Stagger Damage +2.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221013">
 		<Name>Axe Gang Spirit</Name>
-		<Desc>Blunt Stagger Damage +1</Desc>
+		<Desc>Blunt Stagger Damage +1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221014">
 		<Name>Double Axe</Name>
-		<Desc>Slash Damage +2, Pierce Damage -1</Desc>
+		<Desc>Slash Damage +2, Pierce Damage -1.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="221006">
 		<Name>Smack the Weakness</Name>
-		<Desc>Blunt Damage +3</Desc>
+		<Desc>Blunt Damage +3.</Desc>
 	</PassiveDesc>
   <PassiveDesc ID="230001">
     <Name>Remembrance</Name>
@@ -374,15 +374,15 @@
 
   <PassiveDesc ID="230004">
     <Name>Concentration</Name>
-    <Desc>Gain +1 Power for the first Scene</Desc>
+    <Desc>Gain +1 Power for the first Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230005">
     <Name>Blind Fire</Name>
-    <Desc>Gain +2 Power for the first Scene</Desc>
+    <Desc>Gain +2 Power for the first Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230006">
     <Name>Snipe</Name>
-    <Desc>Offensive dice gain +3 Power for the first Scene</Desc>
+    <Desc>Offensive dice gain +3 Power for the first Scene.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="230007">
@@ -403,7 +403,7 @@
   </PassiveDesc>
   <PassiveDesc ID="230009">
     <Name>Passion</Name>
-    <Desc>Gain Power by double the current Emotion Level (Up to Level 1).</Desc>
+    <Desc>Gain Power by double the current Emotion Level. (Up to Level 1)</Desc>
   </PassiveDesc>
 
   <!-- Gaze Office-->
@@ -417,7 +417,7 @@
   </PassiveDesc>
   <PassiveDesc ID="230012">
     <Name>Unstable Charge</Name>
-    <Desc>At the end of each Scene, gain 1 Strength at a 50% chance next Scene</Desc>
+    <Desc>At the end of each Scene, gain 1 Strength at a 50% chance next Scene.</Desc>
   </PassiveDesc>
 
   <!-- Tomerry -->
@@ -437,11 +437,11 @@
   <!-- Kurokumo -->
   <PassiveDesc ID="230018">
     <Name>Battle Ready</Name> <!-- sayo -->
-    <Desc>Draw 2 more pages at the start of the Act</Desc>
+    <Desc>Draw 2 more pages at the start of the Act.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230118">
     <Name>Dark Cloud Blade</Name> <!-- sayo2 -->
-    <Desc>Slash Dice Power +1</Desc>
+    <Desc>Slash Dice Power +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230019">
     <Name>Digging Shank</Name> <!-- yang -->
@@ -449,47 +449,47 @@
   </PassiveDesc>
   <PassiveDesc ID="230020">
     <Name>Deep Wound</Name>
-    <Desc>Upon winning a clash with Offensive dice, inflict 1 Bleed next Scene</Desc>
+    <Desc>Upon winning a clash with Offensive dice, inflict 1 Bleed next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="231001">
     <Name>Razor Strike</Name>
-    <Desc>Upon a successful Slash attack, inflict 1 Bleed next Scene</Desc>
+    <Desc>On a successful Slash attack, inflict 1 Bleed next Scene.</Desc>
   </PassiveDesc>
   
   <!-- Bremen -->
   <PassiveDesc ID="230021">
     <Name>Meow Meow~</Name> <!-- 미야오 -->
-    <Desc>At the start of the Act, give 1 Strength to two random allies</Desc>
+    <Desc>At the start of the Act, give 1 Strength to two random allies.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230121">
     <Name>Improv Drumming</Name>  <!-- 브레멘 전원 -->
-    <Desc>After a successful Blunt attack, inflict 1 Fragile to a random enemy next Scene (once per Scene)</Desc>
+    <Desc>On a successful Blunt attack, inflict 1 Fragile to a random enemy next Scene. (Once per Scene)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230022">
     <Name>Squeak… Squeak…?</Name> <!-- 무무 -->
-    <Desc>On a successful Blunt attack, deal 1-2 bonus damage to target</Desc>
+    <Desc>On a successful Blunt attack, deal 1-2 bonus damage to target.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230023">
     <Name>Oinkie!! Oink!!!</Name> <!-- 오잉크 -->
-    <Desc>At the start of the Act, give 1 Feeble to two random enemies</Desc>
+    <Desc>At the start of the Act, give 1 Feeble to two random enemies.</Desc>
   </PassiveDesc>
   
   <!-- 쐐기 -->
   <PassiveDesc ID="230024">
     <Name>Unrelenting</Name> <!-- 오스카 -->
-    <Desc>Upon taking a lethal blow, reduce all incoming damage including what activated this passive by 25 for the Scene (Activates once per Act)</Desc>
+    <Desc>Upon taking a lethal blow, reduce all incoming damage including what activated this passive by 25 for the Scene. (Activates once per Act)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230124">
     <Name>Wedge</Name> <!-- 쐐기 전원 -->
-    <Desc>Pierce Dice Power +1</Desc>
+    <Desc>Pierce Dice Power +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230025">
     <Name>Piercer</Name> <!-- 파멜리 -->
-    <Desc>Pierce Damage +1</Desc>
+    <Desc>Pierce Damage +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="230026">
     <Name>Jolting Puncture</Name> <!-- 파멜라 -->
-    <Desc>Pierce Stagger Damage +1</Desc>
+    <Desc>Pierce Stagger Damage +1.</Desc>
   </PassiveDesc>
 
   <!-- 필립 에고 용-->
@@ -533,16 +533,16 @@ A Speed die becomes unavailable.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240201">
     <Name>Exhaustion</Name> <!-- 유진3 -->
-      <Desc>A Speed die becomes unavailable</Desc>
+      <Desc>A Speed die becomes unavailable.</Desc>
     </PassiveDesc>
   <PassiveDesc ID="240301">
     <Name>Eye of Death/Enervation</Name> <!-- 유진5 --><!-- 사(죽을 사:死)의 눈 -->
-    <Desc>All dice gain +4 Power
-All dice lose 3 Power</Desc>
+    <Desc>All dice gain +4 Power.
+All dice lose 3 Power.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240401">
     <Name>Enervation</Name> <!-- 유진4 -->
-    <Desc>Dice Power -3</Desc>
+    <Desc>Dice Power -3.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="240002">
@@ -552,42 +552,42 @@ All dice lose 3 Power</Desc>
 
   <PassiveDesc ID="240003">
     <Name>Respiration</Name>  <!-- 텐마 -->
-    <Desc>At the start of the Scene, restore 1 Light if current Light is 0</Desc>
+    <Desc>At the start of the Scene, restore 1 Light if current Light is 0.</Desc>
   </PassiveDesc>
 
   <!-- 시 협회 공용 -->
   <PassiveDesc ID="241001">
     <Name>Kizuna/Extreme Fatigue</Name>  <!-- Japanese '絆(きずな)' = 인연, 유대 -->
-    <Desc>After an ally dies, gain 1 Strength and 1 Endurance each Scene for the rest of the Act. (Stacks up to two times)
-Starts the battle with 75% less HP</Desc>
+    <Desc>After an ally dies, gain 1 Strength and 1 Endurance each Scene for the rest of the Act. (Stacks up to two times).
+Starts the battle with 75% less HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="241101">
     <Name>Extreme Fatigue</Name>
-    <Desc>Starts the battle with 75% less HP</Desc>
+    <Desc>Starts the battle with 75% less HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="241201">
     <Name>Extreme Fatigue</Name>
-    <Desc>Starts the battle with 50% less HP</Desc>
+    <Desc>Starts the battle with 50% less HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="241301">
     <Name>Kizuna/Extreme Fatigue</Name> <!-- Japanese '絆(きずな)' = 인연, 유대 --> 
-    <Desc>After an ally dies, gain 1 Strength and 1 Endurance each Scene for the rest of the Act. (Stacks up to two times)
-Starts the battle with 25% less HP</Desc>
+    <Desc>After an ally dies, gain 1 Strength and 1 Endurance each Scene for the rest of the Act. (Stacks up to two times).
+Starts the battle with 25% less HP.</Desc>
   </PassiveDesc>
 
 
   <!-- puppet -->
   <PassiveDesc ID="240004">
     <Name>Acceleration</Name> <!-- 빠른 인형 -->
-    <Desc>When Speed is 5 or higher, deal +1 Stagger damage with attacks</Desc>
+    <Desc>When Speed is 5 or higher, deal +1 Stagger damage with attacks.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240005">
     <Name>Concussion</Name> <!-- 무거운 인형 -->
-    <Desc>On a successful Blunt attack, deal 2 bonus Stagger damage</Desc>
+    <Desc>On a successful Blunt attack, deal 2 bonus Stagger damage.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240006">
     <Name>Puppet Skeleton</Name> <!-- 인형 공용-->
-    <Desc>Blunt Dice Power +1</Desc>
+    <Desc>Blunt Dice Power +1.</Desc>
   </PassiveDesc>
   
   <!-- enemy only -->
@@ -606,75 +606,75 @@ Starts the battle with 25% less HP</Desc>
   <!-- 에마 (유저가 얻는 핵심 책장에서도 사용) -->
   <PassiveDesc ID="240308">
     <Name>High-level Acrobatics</Name>
-    <Desc>When using a page whose original Cost is 3 or higher, all dice on that page gain +1 Power</Desc>
+    <Desc>When using a page whose original Cost is 3 or higher, all dice on that page gain +1 Power.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240408">
     <Name>Lion’s Fist</Name>
-    <Desc>Blunt Dice Power +1</Desc>
+    <Desc>Blunt Dice Power +1.</Desc>
   </PassiveDesc>
 
   <!-- 노아 -->
   <PassiveDesc ID="240508">
     <Name>Bestride</Name>
-    <Desc>At the end of the Scene, reunite with Emma</Desc>
+    <Desc>At the end of the Scene, reunite with Emma.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="240015">
     <Name>Mind Hauler</Name> <!-- 안톤, 발레리 -->
-    <Desc>Recover 2 Stagger Resist on a successful attack</Desc>
+    <Desc>Recover 2 Stagger Resist on a successful attack.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240016">
     <Name>Health Hauler</Name> <!-- 라일라 -->
-    <Desc>Recover 2 HP on a successful attack</Desc>
+    <Desc>Recover 2 HP on a successful attack.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="241002">
     <Name>Liquified Flesh</Name> <!-- 청소부 공용 -->
-    <Desc>Defensive Dice Power +1</Desc>
+    <Desc>Defensive Dice Power +1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="241102">
     <Name>Corpse Cleanup</Name> <!-- 청소부 공용 2 -->
-    <Desc>When another character dies, recover 5% Max. HP at the end of that Scene (Max. 12)</Desc>
+    <Desc>When another character dies, recover 5% Max HP at the end of that Scene. (Max. 12)</Desc>
   </PassiveDesc>
 	<PassiveDesc ID="241202">
     <Name>Corpse Cleanup</Name> <!-- 청소부 적 -->
-    <Desc>When another character dies, recover 20% Max. HP at the end of that Scene</Desc>
+    <Desc>When another character dies, recover 20% Max HP at the end of that Scene.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="240018">
     <Name>Grace of the Prescript</Name> <!-- 검지 수행자 -->
-    <Desc>Each Scene, boost the Power of a random type of Offensive dice by +2</Desc>
+    <Desc>Each Scene, boost the Power of a random type of Offensive dice by +2.</Desc>
   </PassiveDesc>
   <!-- Either one of Slash, Pierce, or Blunt Power-Ups is cast, basically -->
   <PassiveDesc ID="240118">
     <Name>Skim Prescript</Name> <!-- 검지 수행자 2 -->
-    <Desc>Draw one more page at the start of the Act</Desc>
+    <Desc>Draw 1 more page at the start of the Act.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="240019"> 
     <Name>Quantum Leap</Name> <!-- 로즈 --> 
-    <Desc>If Speed is 4 or higher, deal 13 bonus damage on successful hits at a 10% chance</Desc> 
+    <Desc>If Speed is 4 or higher, deal 13 bonus damage on successful hits at a 10% chance.</Desc> 
   </PassiveDesc>
   <PassiveDesc ID="240020"> 
     <Name>Refraction</Name> <!-- 센 --> 
-    <Desc>On a successful hit, deal 13 bonus Stagger damage at a 5% chance</Desc> 
+    <Desc>On a successful hit, deal 13 bonus Stagger damage at a 5% chance.</Desc> 
   </PassiveDesc>
   <PassiveDesc ID="240021"> 
     <Name>Reaction Force</Name> <!-- 레스티 --> 
-    <Desc>If the character did not use any pages for a Scene, gain 1 Strength and Endurance next Scene</Desc> 
+    <Desc>If the character did not use any pages for a Scene, gain 1 Strength and Endurance next Scene.</Desc> 
   </PassiveDesc>
   <PassiveDesc ID="240022"> 
     <Name>Dimensional Sections</Name> <!-- 워프 공용 --> 
-    <Desc>On a successful hit, deal 10 bonus damage at a 10% chance</Desc> 
+    <Desc>On a successful hit, deal 10 bonus damage at a 10% chance.</Desc> 
   </PassiveDesc>
   
   <PassiveDesc ID="240023">
     <Name>Sooty Thwack</Name> <!-- 왕 -->
-    <Desc>If the character has 'Smoke', boost Stagger damage dealt with attacks by (Smoke x 10)%</Desc>
+    <Desc>If the character has 'Smoke', boost Stagger damage dealt with attacks by (Smoke x 10)%.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240024">
     <Name>Smoke Addiction</Name> <!-- 진 -->
-    <Desc>On a successful hit, if the target had 8 or more stacks of 'Smoke', inflict 2 Paralysis next Scene (Once per target per Scene)</Desc>
+    <Desc>On a successful hit, if the target had 8 or more stacks of 'Smoke', inflict 2 Paralysis next Scene. (Once per target per Scene)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240025">
     <Name>Stimulating Fumes</Name> <!-- 미 -->
@@ -682,21 +682,21 @@ Starts the battle with 25% less HP</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240026">
     <Name>Puffy Brume</Name> <!-- 웃는 얼굴들 공용 -->
-    <Desc>'Smoke' amplifies outgoing damage instead of incoming damage on this character</Desc>
+    <Desc>'Smoke' amplifies outgoing damage instead of incoming damage on this character.</Desc>
   </PassiveDesc>
 
   <!-- 불안정한 우는 아이 -->
   <PassiveDesc ID="240027">
     <Name>Flaring Brand</Name>
-    <Desc>Inflict 1-2 Burn on hit</Desc>
+    <Desc>Inflict 1-2 Burn on hit.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240127">
     <Name>Plumed Escutcheon</Name>
-    <Desc>When hit, inflict 1-2 Burn to attacker</Desc>
+    <Desc>When hit, inflict 1-2 Burn to attacker.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240227">
     <Name>Volatile Passion</Name>
-    <Desc>If target has Burn, boost the Power of Offensive dice by +1</Desc>
+    <Desc>If target has Burn, boost the Power of Offensive dice by +1.</Desc>
   </PassiveDesc>
   
   <!-- 우는 아이 -->
@@ -747,7 +747,7 @@ Instead, one of the Children plays a page with a die carrying the following effe
   <!-- 검계 -->
   <PassiveDesc ID="243003">
     <Name>Swordplay of the Homeland</Name>
-    <Desc>Slash Dice Power +2</Desc>
+    <Desc>Slash Dice Power +2.</Desc>
   </PassiveDesc>
 
   <!--매우 강한 1급 해결사-->
@@ -768,19 +768,19 @@ Instead, one of the Children plays a page with a die carrying the following effe
   
   <PassiveDesc ID="250001">
     <Name>Fervor</Name>
-    <Desc>Offensive dice gain +1 Power at Emotion Level 3 or above</Desc>
+    <Desc>Offensive dice gain +1 Power at Emotion Level 3 or above.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250002">
     <Name>A Fighter that Never Retreats</Name> <!-- 로웰, 臨戰無退 -->
-    <Desc>Whenever the Emotion Level rises, gain 1 Strength and Endurance</Desc>
+    <Desc>Whenever the Emotion Level rises, gain 1 Strength and Endurance.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250003">
     <Name>Firm as a Great Mountain</Name> <!-- 세실, 安如泰山 -->
-    <Desc>Whenever the Emotion Level rises, recover 15% of Max HP(Max. 20)</Desc>
+    <Desc>Whenever the Emotion Level rises, recover 15% of Max HP. (Max. 20)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250004">
     <Name>Remain Vigilant in Peace</Name> <!-- 메이, 安不忘危 -->
-    <Desc>Whenever the Emotion Level rises, recover 25% of Max Stagger Resist unless the character is staggered</Desc>
+    <Desc>Whenever the Emotion Level rises, recover 25% of Max Stagger Resist unless the character is staggered.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250005">
@@ -798,7 +798,7 @@ Instead, one of the Children plays a page with a die carrying the following effe
   </PassiveDesc>
   <PassiveDesc ID="250007">
     <Name>Grit</Name> <!-- 보리스 -->
-    <Desc>Reduce incoming damage and Stagger damage by 1 (Including damage from non-attacks)</Desc>
+    <Desc>Reduce incoming damage and Stagger damage by 1. (Including those from non-attacks)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250008">
     <Name>Empowered First Shot</Name> <!-- 카트리엘 -->
@@ -836,7 +836,7 @@ Instead, one of the Children plays a page with a die carrying the following effe
   </PassiveDesc>
   <PassiveDesc ID="250113">
     <Name>The Blue Reverberation</Name>
-    <Desc>Take no damage from Ranged Combat Pages.</Desc>
+    <Desc>Take no damage or Stagger damage from Ranged Combat Pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250014">
     <Name>Internal Combustion Engine</Name>
@@ -848,7 +848,7 @@ Instead, one of the Children plays a page with a die carrying the following effe
   </PassiveDesc>
   <PassiveDesc ID="250214">
     <Name>Thought Gear</Name>
-    <Desc>Evade Dice Power +1</Desc>
+    <Desc>Evade Dice Power +1.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="150015">
@@ -938,7 +938,7 @@ At Emotion Level 4 or above, the Combat Page 'Manifest E.G.O' is added to hand. 
 Can use 'Great Split: Horizontal'.
 Each Scene, resistances against a random type become "Normal" while the rest are set to "Endured".
 For every enemy defeated, gain a stack of 'Red Mist', which boosts the Power of all dice.
-If the character fails to deal 40+ damage with attacks within a Scene, take Stagger damage equal to 40% of the Max. Stagger Resist.
+If the character fails to deal 40+ damage with attacks within a Scene, take Stagger damage equal to 40% of the Max Stagger Resist.
 Lose 'E.G.O Manifested' status upon becoming Staggered.</Desc>
   </PassiveDesc>
 
@@ -954,7 +954,7 @@ Lose 'E.G.O Manifested' status upon becoming Staggered.</Desc>
   
   <PassiveDesc ID="250522">
     <Name>The Red Mist</Name>
-    <Desc>Can equip The Red Mist's Key page</Desc>
+    <Desc>Can equip The Red Mist's Key page.</Desc>
   </PassiveDesc>
 
   <!-- R사 -->
@@ -964,15 +964,15 @@ Lose 'E.G.O Manifested' status upon becoming Staggered.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="251001">
     <Name>Rabbit Augmentation</Name> <!-- 토끼팀 + 묘 -->
-    <Desc>For every 30% of Max. HP lost this Act, gain 1 Haste at the start of each Scene. (Up to 3)</Desc>
+    <Desc>For every 30% of Max HP lost this Act, gain 1 Haste at the start of each Scene. (Up to 3)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="251002">
     <Name>Rhino Procedure</Name> <!-- 코뿔소팀 + 막심 -->
-    <Desc>For every 30% of Max. HP lost this Act, gain 1 Endurance at the start of each Scene. (Up to 2)</Desc>
+    <Desc>For every 30% of Max HP lost this Act, gain 1 Endurance at the start of each Scene. (Up to 2)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="251003">
     <Name>Reindeer Treatment</Name> <!-- 순록팀 + 루돌프 -->
-    <Desc>For every 30% of Max. HP lost this Act, gain 1 Strength at the start of each Scene. (Up to 2)</Desc>
+    <Desc>For every 30% of Max HP lost this Act, gain 1 Strength at the start of each Scene. (Up to 2)</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="250023">
@@ -1177,14 +1177,14 @@ The character will transform back into a librarian if no ally is synchronized wi
   </PassiveDesc>
   <PassiveDesc ID="10013">
     <Name>The Black Silence</Name>
-    <Desc>Draw 2 additional pages at the start of the Act. All dice on every third Combat Page used gain +2 Power.</Desc>
+    <Desc>Draw 2 more pages at the start of the Act. All dice on every third Combat Page used gain +2 Power.</Desc>
   </PassiveDesc>
 
   <!-- 잔향악단 -->
   <PassiveDesc ID="260005">
     <Name>Resonance</Name>
     <Desc>When using a Melee Combat Page, if the difference between this character's Speed and the target's Vibration is 1 or less, all dice on the page gain +2 Power.
-At the start of the Act, draw 2 pages.</Desc>
+Draw 2 more pages at the start of the Act.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="260006">
@@ -1419,22 +1419,22 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
   </PassiveDesc>
   <PassiveDesc ID="1405014">
     <Name>The End of the Show</Name>
-    <Desc>Upon death, all librarians fully restore Stagger Resist, and all status ailments on them are halved.</Desc>
+    <Desc>On death, all librarians fully restore Stagger Resist, and all status ailments on them are halved.</Desc>
   </PassiveDesc>
   <!--뒤틀린 잔향악단 중층 오스왈드 인어씨-->
   <PassiveDesc ID="1405021">
     <Name>Twas a Joy to Perform by Your Side…!</Name>
-    <Desc>Upon death, Oswald takes 70 Stagger damage. (Oswald still takes damage even if he's out of combat)</Desc>
+    <Desc>On death, Oswald takes 70 Stagger damage. (Oswald still takes damage even if he's out of combat)</Desc>
   </PassiveDesc>
   <!--뒤틀린 잔향악단 중층 오스왈드 칼날씨-->
   <PassiveDesc ID="1405031">
     <Name>Twas a Joy to Perform by Your Side…!</Name>
-    <Desc>Upon death, Oswald takes 70 Stagger damage. (Oswald still takes damage even if he's out of combat)</Desc>
+    <Desc>On death, Oswald takes 70 Stagger damage. (Oswald still takes damage even if he's out of combat)</Desc>
   </PassiveDesc>
   <!--뒤틀린 잔향악단 중층 오스왈드 토끼씨-->
   <PassiveDesc ID="1405041">
     <Name>Twas a Joy to Perform by Your Side…!</Name>
-    <Desc>Upon death, Oswald takes 70 Stagger damage. (Oswald still takes damage even if he's out of combat)</Desc>
+    <Desc>On death, Oswald takes 70 Stagger damage. (Oswald still takes damage even if he's out of combat)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1405042">
     <Name>Amalgamation</Name>
@@ -1497,7 +1497,7 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
   <!-- special black silence -->
   <PassiveDesc ID="10112">
     <Name>Weariness</Name>
-    <Desc>Starts the battle with 25% less HP</Desc>
+    <Desc>Starts the battle with 25% less HP.</Desc>
   </PassiveDesc>
 
   
@@ -1568,7 +1568,7 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
 
   <PassiveDesc ID="255003">
     <Name>Immediate Repairs</Name>
-    <Desc>When Staggered, recover from Stagger and fully recover Stagger Resist (Once per Act).</Desc>
+    <Desc>When Staggered, recover from Stagger and fully recover Stagger Resist (Once per Act)</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="255004">
@@ -1601,7 +1601,7 @@ Otherwise, recover HP and Stagger Resist when Soul Link expires, and set the amo
 
   <PassiveDesc ID="240010">
     <Name>Acrobatic</Name>
-    <Desc>Ranged Attack Damage +1</Desc>
+    <Desc>Ranged Attack Damage +1.</Desc>
   </PassiveDesc>
   
 </PassiveDescRoot>

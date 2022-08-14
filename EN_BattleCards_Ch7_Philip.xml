@@ -15,8 +15,8 @@
     <BattleCardDesc ID="703113">
       <LocalizedName>Despairingly Stigmatize</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[On Hit] Gain 3 Negative Emotion Coins</Behaviour>
-      <Behaviour ID="1">[On Hit] Gain 3 Negative Emotion Coins</Behaviour>
+      <Behaviour ID="0">[On Hit] Gain 3 Negative Emotion Points</Behaviour>
+      <Behaviour ID="1">[On Hit] Gain 3 Negative Emotion Points</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703114">
       <LocalizedName>Searing Resolution</LocalizedName>

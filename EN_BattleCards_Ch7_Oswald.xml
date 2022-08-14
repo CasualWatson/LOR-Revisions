@@ -21,7 +21,7 @@
     <BattleCardDesc ID="703504">
       <LocalizedName>Here, Catch~!♣</LocalizedName>
       <Ability>[Well Done~] If the first die on this page loses in a clash, the opponent gains 1 Strength next Scene</Ability>
-      <Behaviour ID="0">[On Clash Win] Destroy all dice on target's page</Behaviour>
+      <Behaviour ID="0">[On Clash Win] Destroy opponent's remaining dice</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703505">
       <LocalizedName>Shall We Somersault These?◆</LocalizedName>

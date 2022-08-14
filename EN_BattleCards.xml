@@ -1547,9 +1547,8 @@
       <!-- 睚眦 -->
     </BattleCardDesc>
     <BattleCardDesc ID="610006">
-      <LocalizedName>Jīn Ní</LocalizedName>
-      <!-- Ask RO how 金猊 (금예) is pronounced -->
-      <!-- Also possibly Suān Ní -->
+      <LocalizedName>Suān Ní</LocalizedName>
+      <!-- Also possibly Jīn Ní -->
     </BattleCardDesc>
 
     <BattleCardDesc ID="610008">

@@ -82,7 +82,7 @@
   </PassiveDesc>
   <PassiveDesc ID="301011">
     <Name>Expression</Name>
-    <Desc>Dice gain different amounts of Power depending on the current face.</Desc>
+    <Desc>Dice strength changes depending on the current face.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="302021">
     <Name>Attracted</Name>
@@ -144,7 +144,7 @@
   <!-- 포큐버스 -->
   <PassiveDesc ID="403011">
     <Name>Thorns Granting Happiness</Name>
-    <Desc>On hit, give the target 2 Positive Emotion Coins.</Desc>
+    <Desc>On hit, give the target 2 Positive Emotion Points.</Desc>
   </PassiveDesc>
   <!-- 포큐버스 -->
   <PassiveDesc ID="403012">
@@ -547,11 +547,11 @@ At the end of the Scene, restore all Light and draw 2 pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="603012">
     <Name>Melted Corpses</Name>
-    <Desc>Each time the Abnormality loses more than 25% of the Max. HP (62/87/112), 'Melting Corpses' is spawned at the start of the next Scene.</Desc>
+    <Desc>Each time the Abnormality loses more than 25% of the Max HP (62/87/112), 'Melting Corpses' is spawned at the start of the next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="603111">
     <Name>Dividing</Name>
-    <Desc>Divides into corpses when HP drops to 0. If all corpses are defeated within 3 Scenes, the battle is won. Otherwise, the Abnormality revives as Stage 1. (Upon revival, it will recover HP by the sum of the HP all remaining Melting Corpses had.)</Desc>
+    <Desc>Divides into corpses when HP drops to 0. If all corpses are defeated within 3 Scenes, the battle is won. Otherwise, the Abnormality revives as Stage 1. (On revival, it will recover HP by the sum of the HP all remaining Melting Corpses had.)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="603112">
     <Name>Growing Mass</Name>
@@ -701,7 +701,7 @@ After attacking the Servant of Wrath again on the second Scene, uses a Mass Atta
   </PassiveDesc>
   <PassiveDesc ID="803015">
     <Name>Overflowing Misdeeds</Name>
-    <Desc>After using 'Judgement' or 'Ceaseless Judgement', lose 25% of Max. Stagger Resist.</Desc>
+    <Desc>After using 'Judgement' or 'Ceaseless Judgement', lose 20% of Max Stagger Resist.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="803021">
     <Name>I’m Scared! I’m Scared!</Name>

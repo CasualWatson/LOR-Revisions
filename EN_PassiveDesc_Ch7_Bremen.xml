@@ -41,6 +41,6 @@ When all heads are destroyed, the battle progresses to the next phase.</Desc>
 
   <PassiveDesc ID="1404013">
     <Name>Erlöschend Dirge of a War Grave</Name>
-    <Desc>Upon death: all enemies gain 3 Strength, Endurance, and Haste next scene.</Desc>
+    <Desc>On death, all enemies gain 3 Strength, Endurance, and Haste next scene.</Desc>
   </PassiveDesc>
 </PassiveDescRoot>

@@ -48,7 +48,7 @@
 
   <PassiveDesc ID="1402013">
     <Name>Oxide Overload</Name>
-    <Desc>Upon death, allies are inflicted with 10 Smoke and lose the effect of 'Puffy Brume'.</Desc>
+    <Desc>On death, allies are inflicted with 10 Smoke and lose the effect of 'Puffy Brume'.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="1402014">

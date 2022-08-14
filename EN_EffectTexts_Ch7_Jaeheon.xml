@@ -3,7 +3,7 @@
   <effectTextList>
     <BattleEffectText ID="Jaeheon_PuppetThread">
       <Name>Puppet Strings</Name>
-      <Desc>Speed dice +1. Upon death, revives in 2 Scenes. The character will take 8 damage whenever a stack of this status is lost.</Desc>
+      <Desc>Speed dice +1. On death, revives in 2 Scenes. The character will take 8 damage whenever a stack of this status is lost.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Jaeheon_Mark">
       <Name>Red Mark</Name>

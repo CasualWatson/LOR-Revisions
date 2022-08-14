@@ -36,7 +36,7 @@
 
   <PassiveDesc ID="1403012">
     <Name>Garde Perdue</Name> <!-- Get it? Like Pain Perdu :) -->
-    <Desc>Upon death, all allies are inflicted with 5 Fragile next Scene.</Desc>
+    <Desc>On death, all allies are inflicted with 5 Fragile next Scene.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="1403013">

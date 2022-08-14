@@ -103,7 +103,7 @@
     <Desc>[On Use] Recover 1 HP</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="recoverHp2dfn">
-    <Desc>[On Defense] Recover 2 HP</Desc>
+    <Desc>[On Clash Win] Recover 2 HP</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="disarm1atk">
@@ -387,7 +387,7 @@
   </BattleCardAbility>
   <!-- 주의 -->
   <BattleCardAbility ID="bleedingSlash1thisRound">
-    <Desc>[Combat Start] Upon each successful Slash attack this Scene, inflict 1 Bleed next Scene</Desc>
+    <Desc>[Combat Start] On each successful Slash attack this Scene, inflict 1 Bleed next Scene</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="protection3">
@@ -549,7 +549,7 @@
   </BattleCardAbility>
 
   <BattleCardAbility ID="teddyEgo">
-    <Desc>[On Clash Win] Destroy all of opponent's dice</Desc>
+    <Desc>[On Clash Win] Destroy opponent's remaining dice</Desc>
   </BattleCardAbility>
 
   <!-- warp crew -->
@@ -671,13 +671,13 @@
     <Desc>[On Hit] Deal 5 Stagger damage to target</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="weak5atk">
-    <Desc>[On Hit] Inflict 5 Feeble</Desc>
+    <Desc>[On Hit] Inflict 5 Feeble next scene</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="disarm5atk">
-    <Desc>[On Hit] Inflict 5 Disarm</Desc>
+    <Desc>[On Hit] Inflict 5 Disarm next scene</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="binding5atk">
-    <Desc>[On Hit] Inflict 5 Bind</Desc>
+    <Desc>[On Hit] Inflict 5 Bind next scene</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="yesod_final_butterfly_ego_brk">
     <Desc>[On Hit] Deal 3 Stagger damage to target</Desc>
@@ -700,7 +700,7 @@
   </BattleCardAbility>
   
   <BattleCardAbility ID="singingMachineEgo">
-    <Desc>Upon each successful hit, a random ally takes 3 Stagger damage and gains 1 Strength next Scene</Desc>
+    <Desc>On each successful hit, a random ally takes 3 Stagger damage and gains 1 Strength next Scene</Desc>
     <Desc>Upon defeating an enemy, all allies gain 2 Strength</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="singingMachineDice">
@@ -769,7 +769,7 @@
     <Desc>[On Hit] Inflict 3 Burn</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="liuBurnDice">
-    <Desc>[On Hit] Inflict 1 + (Personal Emotion Level) amount of Burn</Desc>
+    <Desc>[On Hit] Inflict 1 + (Personal Emotion Level) Burn</Desc>
   </BattleCardAbility>
 
   <!-- hod ego -->
@@ -1013,10 +1013,10 @@
     <Desc>[Combat Start] When inflicting Burn using Combat Pages this Scene, inflict 1 additional stack</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="punchDraw">
-    <Desc>[On Use] At the start of the next Scene, draw all copies of 'Single-Point Stab' from the deck</Desc>
+    <Desc>[On Use] At the start of next Scene, draw all other copies of 'Single-Point Stab'</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="fireIlsum">
-    <Desc>[On Use] If 'Burning Flash' is in hand, discard it and draw a page, then add the Offensive dice on the discarded page to this</Desc>
+    <Desc>[On Use] Discard a random 'Burning Flash', add its dice to this page, and draw a page</Desc>
     <Desc></Desc>
   </BattleCardAbility>
   
@@ -1037,7 +1037,7 @@
   <BattleCardAbility ID="hateEgoDice">
   </BattleCardAbility>
   <BattleCardAbility ID="despairEgoDice">
-    <Desc>[On Hit] Seal a Speed die of target for the next Scene</Desc>
+    <Desc>[On Hit] Seal a Speed die of target for next Scene</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="greedEgoDice">
     <Desc>[On Hit] Restore 1 Light; Gain 1 Strength next Scene</Desc>
@@ -1064,7 +1064,7 @@
   </BattleCardAbility>
   
   <BattleCardAbility ID="kali">
-    <Desc>If target is defeated or Staggered, use this page again on a random enemy.</Desc>
+    <Desc>If target is defeated or Staggered by this page, use it again on a random enemy.</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="kaliEgoAwaken">
     <Desc>[On Use] Restore 6 Light; fully recover Stagger Resist. Manifest the E.G.O of the Red Mist next Scene.</Desc>
@@ -1083,7 +1083,7 @@
 
   <!-- binah -->
   <BattleCardAbility ID="protection3friendThisRound">
-    <Desc>[On Use] Give 3 Protection to all allies this Scene</Desc>
+    <Desc>[On Use] Give 3 Protection to all allies</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="drawUntil4">
     <Desc>[On Use] Draw until there are 4 pages in hand</Desc>
@@ -1113,7 +1113,7 @@
     <Desc>Target's current die cannot be recycled</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="sealTargetAtk">
-    <Desc>[On Hit] Seal a Speed die of target for the next Scene</Desc>
+    <Desc>[On Hit] Seal a Speed die of target for next Scene</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="forbidCardAtk">
     <Desc>[On Hit] Increase Cost of target's pages whose original Cost is 4 or higher by 2 for the next Scene</Desc>
@@ -1182,7 +1182,7 @@
     <Desc>[Combat Start] Give 1 Strength to 2 other allies</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="copyMostCost">
-    <Desc>[On Use] Copy the most expensive page in hand and add that to hand.</Desc>
+    <Desc>[On Use] Copy the page with the highest original cost in hand.</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="costdown">
     <Desc>This page's Cost is lowered by the number of other 'Rapid Gashes' in hand</Desc>
@@ -1204,8 +1204,8 @@
   </BattleCardAbility>
 
   <BattleCardAbility ID="nicolaiDice1">
-    <Desc>[On Clash Win] Destroy all of opponent's dice
-[On Clash Lose] Destroy the next die on this page</Desc>
+    <Desc>[On Clash Win] Destroy opponent's remaining dice
+[On Clash Lose] Lose next die</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="nicolaiDice2">
@@ -1228,7 +1228,7 @@
     <Desc>This die is rolled 4 times</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="wolfEgoDice2">
-    <Desc>[On Hit] Deal damage equal to the sum of all valid rolls (won clashes or hits connected) done with all dice on this page.</Desc>
+    <Desc>[On Hit] Deal damage equal to the sum of all rolls on this page that would have won clashes or hit the target.</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="mountainEgoDice">
@@ -1251,11 +1251,11 @@
   </BattleCardAbility>
 
   <BattleCardAbility ID="nothingEgo">
-    <Desc>On hit, recover HP equal to the damage dealt</Desc>
+    <Desc>Recover HP equal to the damage dealt</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="matanEgoDice1">
-    <Desc>[On Hit] Seal a Speed die of target for the next Scene</Desc>
+    <Desc>[On Hit] Seal a Speed die of target for next Scene</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="nothingEgoDice">
@@ -1335,7 +1335,7 @@
 <!-- chessed creature -->
   <BattleCardAbility ID="ozma_forgotten">
     <Desc>[On Play] Immobilized for this Scene; cannot be targeted.</Desc>
-    <Desc>At the end of this Scene, recover 40% of Max. HP and fully restore Light.</Desc>
+    <Desc>At the end of this Scene, recover 40% of Max HP and fully restore Light.</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="oz_emerald">
     <Desc>The Cost of this page cannot be changed</Desc>
@@ -1412,7 +1412,7 @@
   </BattleCardAbility>
 
   <BattleCardAbility ID="longBirdEgo">
-    <Desc>[On Hit] Deal damage equal to 10% of target's Max. HP (Max. 50)</Desc>
+    <Desc>[On Hit] Deal damage equal to 10% of target's Max HP (Max. 50)</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="smallBirdEgo">
@@ -1431,7 +1431,7 @@
   </BattleCardAbility>
   
   <BattleCardAbility ID="emotion_small_beak">
-    <Desc>[On Play;][Return to Hand] Take 5% of Max. HP as damage; restore 1 Light</Desc>
+    <Desc>[On Play;][Return to Hand] Take 5% of Max HP as damage; restore 1 Light</Desc>
   </BattleCardAbility>
 
   <!-- yan -->
@@ -1542,7 +1542,7 @@
 
   <!-- hokma ego -->
   <BattleCardAbility ID="bloodyTreeEgoDice">
-    <Desc>[On Hit] Seal a Speed die of target next Scene</Desc>
+    <Desc>[On Hit] Seal a Speed die of target for next Scene</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="clockEgo">
@@ -1562,8 +1562,8 @@
 
   <BattleCardAbility ID="whiteNightEgo">
     <Desc>[On Use] Synchronize with WhiteNight for the next 3 Scenes. All other allies transform into Apostles while the Synchronization is active.</Desc>
-    <Desc>The Apostles cannot be controlled or defeated. If an Apostle's HP falls to 1, they cannot act until the Synchronization is disengaged.</Desc>
-    <Desc>The Apostles transform back into librarians once the Synchronization is disengaged.</Desc>
+    <Desc>The Apostles cannot be controlled or defeated. If an Apostle's HP falls to 1, they cannot act until the Synchronization is canceled.</Desc>
+    <Desc>The Apostles transform back into librarians once the Synchronization is canceled.</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="whiteNightCard1">
@@ -1628,10 +1628,10 @@
   <!-- black silence -->
   <BattleCardAbility ID="blackSilenceSpecial">
     <Desc>This page can be used after using all 9 Combat Pages of the Black Silence</Desc>
-    <Desc>On hit, inflict 5 Bleed, 3 Bind, and 3 Fragile next Scene</Desc>
+    <Desc>[On Hit] Inflict 5 Bleed, 3 Bind, and 3 Fragile next Scene</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="blackSilenceSpecialDice">
-    <Desc>[On Clash Win] Destroy all of opponent's dice</Desc>
+    <Desc>[On Clash Win] Destroy opponent's remaining dice</Desc>
   </BattleCardAbility>
 
   <!-- 세븐 협회에서 추가됨 -->
@@ -1639,10 +1639,10 @@
     <Desc>[On Clash Win] Add +1 Power to next die</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="Seven_Engagement">
-    <Desc>[On Use] Add 'En Garde' to user's hand</Desc>
+    <Desc>[On Use] Add a copy of 'En Garde' to user's hand</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="Seven_EnGarde">
-    <Desc>[On Use] Give 1 Strength to target and self next Scene</Desc>
+    <Desc>[On Use] Give 1 Strength to each other next Scene</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="Seven_Fleche">
     <Desc>[On Clash Win] Deal 4 Stagger damage; inflict 1 Fragile next Scene</Desc>
@@ -1820,8 +1820,8 @@
   </BattleCardAbility>
 
   <BattleCardAbility ID="greta_destroyDice">
-    <Desc>[On Clash Win] Destroy all dice the opponent has
-[On Clash Lose] Destroy all dice on this page</Desc>
+    <Desc>[On Clash Win] Destroy opponent's remaining dice
+[On Clash Lose] Lose all remaining dice</Desc>
   </BattleCardAbility>
   
 
@@ -1878,12 +1878,12 @@
 
   <!-- Translation Mistake Correction -->
     <BattleCardAbility ID="roland2phaseFar">
-    <Desc>[On Clash Win] Destroy all of opponent's dice
-[On Clash Lose] Destroy all dice on this page</Desc>
+    <Desc>[On Clash Win] Destroy opponent's remaining dice
+[On Clash Lose] Lose all remaining dice</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="roland2phaseenemys1">
-    <Desc>[On Clash Win] Destroy all of opponent's dice
-[On Clash Lose] Destroy all dice on this page</Desc>
+    <Desc>[On Clash Win] Destroy opponent's remaining dice
+[On Clash Lose] Lose all remaining dice</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="roland2phaseenemys2">
     <Desc>[On Hit] If the natural roll is 3, recycle this die (Up to 4 times)</Desc>
@@ -1936,8 +1936,8 @@
     <Desc>[On Hit] Deal 10 damage and Stagger damage</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="bs3combodestroy">
-    <Desc>[On Hit] [On Clash Win] Destroy all dice the opponent has
-[On Clash Lose] Destroy all dice on this page
+    <Desc>[On Hit;][On Clash Win] Destroy opponent's remaining dice
+[On Clash Lose] Lose all remaining dice
     </Desc>
   </BattleCardAbility>
 
@@ -1973,7 +1973,7 @@
     <Desc>[On Hit] Deal 6 Stagger damage</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_bfsword_pw">
-    <Desc>[On Clash Win] Destroy all of opponent's dice</Desc>
+    <Desc>[On Clash Win] Destroy opponent's remaining dice</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="black_4th_bfsword_atk">
     <Desc>[On Hit] Inflict 1 Bind next Scene</Desc>
@@ -2110,7 +2110,7 @@
 
   <!-- added -->
   <BattleCardAbility ID="binahArea">
-    <Desc>[On Use] Give 3 Protection and Stagger Protection to all allies this Scene</Desc>
+    <Desc>[On Use] Give 3 Protection and Stagger Protection to all allies</Desc>
   </BattleCardAbility>
 
 

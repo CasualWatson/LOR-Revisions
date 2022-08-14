@@ -293,7 +293,7 @@ If the character dies with this ailment, a Worker Bee is spawned next Scene.</De
     </BattleEffectText>
     <BattleEffectText ID="Lumberjack_Heart">
       <Name>Warm Heart</Name>
-      <Desc>The max. roll value of all dice is raised by +{0}.</Desc>
+      <Desc>The max roll value of all dice is raised by +{0}.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="GalaxyBoy_Stone">
@@ -344,7 +344,7 @@ If the character dies with this ailment, a Worker Bee is spawned next Scene.</De
     </BattleEffectText>
     <BattleEffectText ID="BurningGirl_Ember">
       <Name>Ember</Name>
-      <Desc>Max. roll value of the first die of pages with 'Matchlight' increases by 1 for each stack. The die inflicts Burn equal to the stacks of Ember on hit. If there are 4 or more stacks of Ember, explode after rolling the first die with a 25% chance, inflicting damage equal to the max. roll value to self.</Desc>
+      <Desc>Max roll value of the first die of pages with 'Matchlight' increases by 1 for each stack. The die inflicts Burn equal to the stacks of Ember on hit. If there are 4 or more stacks of Ember, explode after rolling the first die with a 25% chance, inflicting damage equal to the max roll value to self.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="SingingMachine_Rhythm">
       <Name>Rhythm</Name>
@@ -762,7 +762,7 @@ This effect is disabled upon becoming Staggered.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Sin_AbnormalityCard">
       <Name>Sin</Name>
-      <Desc>If the amount of Sin reaches 5 or greater, take damage equal to 10% of Max. HP, and remove all stacks. Sin can be transferred to another character by attacking and damaging them. (Once per page)</Desc>
+      <Desc>If the amount of Sin reaches 5 or greater, take damage equal to 10% of Max HP, and remove all stacks. Sin can be transferred to another character by attacking and damaging them. (Once per page)</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="onlypage_rhino_Keyword">
@@ -820,7 +820,7 @@ This effect is disabled upon becoming Staggered.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedHoodFinal_Scar">
       <Name>Scars</Name>
-      <Desc>At the start of the Scene, gain Bleed equal to the amount of Scars. If the amount is 6 or higher at the start of the Scene, take damage equal to 20% of Max. HP and remove all stacks. When attacked by the Wolf, take bonus damage equal to the current amount of Scars. The Wolf's dice gain +2 Power against targets with 4 or more Scars.</Desc>
+      <Desc>At the start of the Scene, gain Bleed equal to the amount of Scars. If the amount is 6 or higher at the start of the Scene, take damage equal to 20% of Max HP and remove all stacks. When attacked by the Wolf, take bonus damage equal to the current amount of Scars. The Wolf's dice gain +2 Power against targets with 4 or more Scars.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nothing_Skin">
       <Name>Shell</Name>
@@ -836,11 +836,11 @@ This effect is disabled upon becoming Staggered.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nosferatu_Blood">
       <Name>Blood</Name>
-      <Desc>Uses different Combat Pages depending on the amount of Blood. 1 Blood is lost whenever the character sustains damage greater than 5% of Max. HP.</Desc>
+      <Desc>Uses different Combat Pages depending on the amount of Blood. 1 Blood is lost whenever the character sustains damage greater than 5% of Max HP.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nosferatu_Blight">
       <Name>Fear of Water</Name>
-      <Desc>Lasts for 2 Scenes. At the start of the Scene, lose 5% of Max. HP and gain 1 Strength, 1 Haste, and 5 Bleed. If the character is at 50% HP or lower, become uncontrollable and attack allies at a 25% chance.</Desc>
+      <Desc>Lasts for 2 Scenes. At the start of the Scene, lose 5% of Max HP and gain 1 Strength, 1 Haste, and 5 Bleed. If the character is at 50% HP or lower, become uncontrollable and attack allies at a 25% chance.</Desc>
     </BattleEffectText>
   
     <!-- text changed -->
@@ -862,7 +862,7 @@ This effect is disabled upon becoming Staggered.</Desc>
     
     <BattleEffectText ID="StanceSlash">
       <Name>Slashing Stance</Name>
-      <Desc>Slash Dice Power +2. Deal 50% additional damage with attacks.</Desc>
+      <Desc>Slash Dice Power +2. Deal 50% additional damage with Slash attacks.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="StancePenetrate">
       <Name>Piercing Stance</Name>
@@ -870,11 +870,11 @@ This effect is disabled upon becoming Staggered.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="StanceHit">
       <Name>Blunting Stance</Name>
-      <Desc>Blunt Dice Power +2. Deal 50% additional Stagger damage with attacks.</Desc>
+      <Desc>Blunt Dice Power +2. Deal 50% additional Stagger damage with Blunt attacks.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="StanceDefense">
       <Name>Guarding Stance</Name> <!-- don't need to equal to '방어' of '방어 주사위' -->
-      <Desc>Defensive Dice Power +2. Remove all status ailments.</Desc>
+      <Desc>Defensive Dice Power +2. Nullify all status ailments.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="DefensePowerUp">
@@ -997,7 +997,7 @@ The Cost of 'Pumpkify' is reduced to 0 when this character's phase starts, and o
       <Name>Cowardice</Name>
       <Desc>5 Feeble, Disarm, and Fragile is applied to self every Scene until the end of the battle.</Desc>
     </BattleEffectText>
-    <BattleEffectText ID="Wizard_Ozma_Support">
+    <BattleEffectText ID="Wizard_Ozma_Strength">
       <Name>Helping Jack</Name>
       <Desc>Offensive dice gain +2 Power for this Scene.</Desc>
     </BattleEffectText>
@@ -1025,7 +1025,7 @@ The Cost of 'Pumpkify' is reduced to 0 when this character's phase starts, and o
     </BattleEffectText>
     <BattleEffectText ID="Wizard_change">
       <Name>Transformation</Name>
-      <Desc>Upon a successful attack in a clash, destroy the opponent's next die at a 50% chance; upon taking a hit in a clash, destroy the next die of self at a 50% chance.</Desc>
+      <Desc>On a successful attack in a clash, destroy the opponent's next die at a 50% chance; upon taking a hit in a clash, destroy the next die of self at a 50% chance.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_emerald">
       <Name>Emerald</Name>
@@ -1087,7 +1087,7 @@ The Cost of 'Pumpkify' is reduced to 0 when this character's phase starts, and o
 
     <BattleEffectText ID="ApocalypseBird_Sin">
       <Name>Heavy Guilt</Name>
-      <Desc>Take {0} additional Stagger damage when hit. If the amount is 5 or greater at the end of the Scene, take 10% of Max. HP as damage and remove all stacks.</Desc>
+      <Desc>Take {0} additional Stagger damage when hit. If the amount is 5 or greater at the end of the Scene, take 10% of Max HP as damage and remove all stacks.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ApocalypseBird_Charm">
       <Name>Horrified</Name>
@@ -1500,7 +1500,7 @@ This effect is removed when Aspiration's offensive move is over.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SilenceGirl_Light">
       <Name>Faint Glimmer</Name>
-      <Desc>If you don't use 9 unique E.G.O pages until the end of this phase……</Desc>
+      <Desc>If you don't use all 9 unique E.G.O pages by the end of this phase…</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SilenceGirl_Hand_Target">
       <Name>Target Affixed</Name>

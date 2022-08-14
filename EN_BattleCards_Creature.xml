@@ -353,7 +353,7 @@
     <BattleCardDesc ID="901803">
       <LocalizedName>Hollow-point Shell</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[On Clash Win] Inflict 3 Fragile, Deal 10 Stagger damage, Destroy all of target's dice</Behaviour>
+      <Behaviour ID="0">[On Clash Win] Inflict 3 Fragile, Deal 10 Stagger damage, Destroy opponent's remaining dice</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901804">
       <LocalizedName>Strike Without Hesitation</LocalizedName>
@@ -373,7 +373,7 @@
     <BattleCardDesc ID="901807">
       <LocalizedName>Ferocious Fangs</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="1">[On Hit] Recover HP 10</Behaviour>
+      <Behaviour ID="1">[On Hit] Recover 10 HP</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901808">
       <LocalizedName>Bloodstained Hunt</LocalizedName>
@@ -526,7 +526,7 @@
     </BattleCardDesc>
     <BattleCardDesc ID="902502">
       <LocalizedName>Sparkling Strike</LocalizedName>
-      <Behaviour ID="0">[On Clash Win] Destroy all of target's dice; [On Hit] Inflict 2 Disarm and Bind next Scene</Behaviour>
+      <Behaviour ID="0">[On Clash Win] Destroy opponent's remaining dice; [On Hit] Inflict 2 Disarm and Bind next Scene</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902503">
       <LocalizedName>Ecstasy of Triumph</LocalizedName>
@@ -548,7 +548,7 @@
     </BattleCardDesc>
     <BattleCardDesc ID="902512">
       <LocalizedName>Edacity</LocalizedName>
-      <Behaviour ID="0">[On Clash Win] Destroy all of target's dice; [On Hit] Inflict 5 Fragile this Scene</Behaviour>
+      <Behaviour ID="0">[On Clash Win] Destroy opponent's remaining dice; [On Hit] Inflict 5 Fragile this Scene</Behaviour>
       <Behaviour ID="1">[On Hit] Recover 7 HP, Inflict 3 Bleed</Behaviour>
       <Behaviour ID="2">[On Hit] Recover 7 HP, Inflict 3 Bleed</Behaviour>
     </BattleCardDesc>
@@ -569,11 +569,11 @@
     </BattleCardDesc>
     <BattleCardDesc ID="902522">
       <LocalizedName>Fragment of Bliss</LocalizedName>
-      <Ability>Gained upon destroying Brilliant Bliss, Can only be used this Scene.</Ability>
+      <Ability>Gained upon destroying Brilliant Bliss; Can only be used this Scene.</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902523">
       <LocalizedName>Fragment of Bliss</LocalizedName>
-      <Ability>Gained upon destroying Brilliant Bliss, Can only be used this Scene.</Ability>
+      <Ability>Gained upon destroying Brilliant Bliss; Can only be used this Scene.</Ability>
     </BattleCardDesc>
 
     <BattleCardDesc ID="902411">
@@ -869,31 +869,31 @@
      <BattleCardDesc ID="950411">
       <LocalizedName>Grrhrrr!</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[On Hit] Inflict 1 Erosion on target</Behaviour>
-      <Behaviour ID="1">[On Hit] Inflict 1 Erosion on target</Behaviour>
+      <Behaviour ID="0">[On Hit] Inflict 1 Erosion</Behaviour>
+      <Behaviour ID="1">[On Hit] Inflict 1 Erosion</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="950412">
       <LocalizedName>AAACK!!</LocalizedName>
       <Ability>[On Use] Deal 10 damage to self; gain 2 Strength next Scene</Ability>
-      <Behaviour ID="0">[On Hit] Inflict 2 Erosion on target</Behaviour>
-      <Behaviour ID="1">[On Hit] Inflict 2 Erosion on target</Behaviour>
-      <Behaviour ID="2">[On Hit] Inflict 1 Erosion on target</Behaviour>
+      <Behaviour ID="0">[On Hit] Inflict 2 Erosion</Behaviour>
+      <Behaviour ID="1">[On Hit] Inflict 2 Erosion</Behaviour>
+      <Behaviour ID="2">[On Hit] Inflict 1 Erosion</Behaviour>
     </BattleCardDesc>
    <BattleCardDesc ID="950413">
       <LocalizedName>Aaah!</LocalizedName>
       <Ability></Ability>
-     <Behaviour ID="0">[On Hit] Inflict 1 Erosion on target</Behaviour>
-     <Behaviour ID="1">[On Hit] Inflict 1 Erosion on target</Behaviour>
+     <Behaviour ID="0">[On Hit] Inflict 1 Erosion</Behaviour>
+     <Behaviour ID="1">[On Hit] Inflict 1 Erosion</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="950414">
       <LocalizedName>EMBODIMENTS OF EVIL!!!!</LocalizedName>
-      <Behaviour ID="0">[On Hit] Inflict 2 Erosion on target</Behaviour>
-      <Behaviour ID="1">[On Hit] Inflict 2 Erosion on target</Behaviour>
-      <Behaviour ID="2">[On Hit] Inflict 6 Erosion on target</Behaviour>
+      <Behaviour ID="0">[On Hit] Inflict 2 Erosion</Behaviour>
+      <Behaviour ID="1">[On Hit] Inflict 2 Erosion</Behaviour>
+      <Behaviour ID="2">[On Hit] Inflict 6 Erosion</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="950421">
       <LocalizedName>Hold Still</LocalizedName>
-      <Ability>[On Use] Hermit’s Staves restore 8 HP and Stagger Resist</Ability>
+      <Ability>[On Use] Hermit’s Staves recover 8 HP and Stagger Resist</Ability>
       <Behaviour ID="1">[On Hit] Deal 8 Stagger damage</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="950422">
@@ -940,7 +940,7 @@
   </BattleCardDesc>
   <BattleCardDesc ID="990204">
     <LocalizedName>Silence</LocalizedName>
-    <Ability>[On Use] All librarians lose 25% of their Max. HP next Scene; remove the time limit for the next Scene</Ability>
+    <Ability>[On Use] All librarians lose 25% of their Max HP next Scene; remove the time limit for the next Scene</Ability>
   </BattleCardDesc>
 
 
@@ -952,7 +952,7 @@
   </BattleCardDesc>
   <BattleCardDesc ID="980221">
     <LocalizedName>Smack</LocalizedName>
-    <Behaviour ID="0">[On Hit] Break all dice on target's page and Stagger target</Behaviour>
+    <Behaviour ID="0">[On Hit] Destroy opponent's remaining dice and Stagger target</Behaviour>
   </BattleCardDesc>
   <BattleCardDesc ID="980222">
     <LocalizedName>Ring</LocalizedName>
@@ -1012,14 +1012,14 @@
    <BattleCardDesc ID="960414">
     <LocalizedName>Thirst</LocalizedName>
 	<Ability>[On Use] Gain 2 Blood next Scene</Ability>
-	<Behaviour ID="0">[On Hit] Destroy all dice on target's page</Behaviour>
+	<Behaviour ID="0">[On Hit] Destroy opponent's remaining dice</Behaviour>
 	<Behaviour ID="1">[On Hit] Recover 10 HP; Gain 2 Blood next Scene</Behaviour>
     <Behaviour ID="2">[On Hit] Recover 10 HP; Gain 2 Blood next Scene</Behaviour>
   </BattleCardDesc>
    <BattleCardDesc ID="960415">
     <LocalizedName>Banquet of Blood</LocalizedName>
     <Ability>[On Use] Lose 5 Blood next Scene</Ability>
-	<Behaviour ID="0">[On Hit] Inflict 'Fear of Water' on target and restore HP of all allies by (7 + num of targets hit)</Behaviour>
+	<Behaviour ID="0">[On Hit] Inflict 'Fear of Water' on target and recover HP of all allies by (7 + num of targets hit)</Behaviour>
   </BattleCardDesc>
   <BattleCardDesc ID="960431">
     <LocalizedName>Looming Presence</LocalizedName>
@@ -1041,7 +1041,7 @@
   </BattleCardDesc>    
   <BattleCardDesc ID="960434">
     <LocalizedName>Unbearable Drought</LocalizedName>
-    <Behaviour ID="0">[On Hit] Destroy all dice on target's page</Behaviour>
+    <Behaviour ID="0">[On Hit] Destroy opponent's remaining dice</Behaviour>
     <Behaviour ID="1">[On Hit] Recover 8 HP; Gain 2 Blood next Scene</Behaviour>
     <Behaviour ID="2">[On Hit] Recover 8 HP; Gain 2 Blood next Scene</Behaviour>
   </BattleCardDesc>  

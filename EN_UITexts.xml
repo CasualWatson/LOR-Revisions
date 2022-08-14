@@ -409,14 +409,14 @@ The ability originally in the slot will be lost.</text>
 	<text id="ui_dialog_auto">Autoplay</text>
 	<text id="ui_newtooltip_battle_1">Current HP</text>
 	<text id="ui_newtooltip_battle_2">Current Stagger Resist</text>
-	<text id="ui_newtooltip_battle_3">Current Emotion Coins</text>
+	<text id="ui_newtooltip_battle_3">Current Emotion Points</text>
 	<text id="ui_newtooltip_battle_4">List of Abnormality pages currently selected</text>
 	<text id="ui_newtooltip_battle_5">Abnormality page currently in effect</text>
 	<text id="ui_newtooltip_battle_6">Phys. damage resist of the target against {0}: {1}</text>
 	<text id="ui_newtooltip_battle_7">Stag. damage resist of the target against {0}: {1}</text>
 	<text id="ui_newtooltip_battle_8">List of Effects applied during battle</text>
 	<text id="ui_newtooltip_battle_9">Current HP</text>
-	<text id="ui_newtooltip_battle_10">Current Emotion Coins</text>
+	<text id="ui_newtooltip_battle_10">Current Emotion Points</text>
 	<text id="ui_newtooltip_battle_11">Current Emotion Level</text>
 	<text id="ui_newtooltip_battle_12">Click to initiate combat.</text>
 	<text id="ui_newtooltip_battle_13">Team Emotion Level</text>

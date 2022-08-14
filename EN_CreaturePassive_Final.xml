@@ -318,7 +318,7 @@
   <!-- 우주 속의 조각-->
   <PassiveDesc ID="405111">
     <Name>Tentacles</Name>
-    <Desc>Upon a successful Pierce attack, reduces target's Max Stagger Resist by 5%. (Stacks up to 10 times)</Desc>
+    <Desc>On a successful Pierce attack, reduces target's Max Stagger Resist by 5%. (Stacks up to 10 times)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405112">
     <Name>Echoes</Name>
@@ -358,7 +358,7 @@
   </PassiveDesc>
   <PassiveDesc ID="405313">
     <Name>Thorns Granting Happiness</Name>
-    <Desc>On hit, give the target 2 Positive Emotion Coins.</Desc>
+    <Desc>On hit, give the target 2 Positive Emotion Points.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405314">
     <Name>Fluttering</Name>
@@ -440,10 +440,8 @@
   <!-- 증오의 여왕 -->
   <PassiveDesc ID="505101">
     <Name>Adverse Change</Name>
-    <Desc>
-      When the Hysteria gauge is filled, transform. The Hysteria gauge rises upon losing clashes or being attacked by marked characters, and decreases upon winning clashes or attacking marked characters. The screen pinkens from left to right as the gauge fills.
-      At the end of the Scene, restore all Light and draw 2 pages.
-    </Desc>
+    <Desc>When the Hysteria gauge is filled, transform. The Hysteria gauge rises upon losing clashes or being attacked by marked characters, and decreases upon winning clashes or attacking marked characters. The screen pinkens from left to right as the gauge fills.
+At the end of the Scene, restore all Light and draw 2 pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505102">
     <Name>In the Name of Hate</Name>
@@ -556,10 +554,8 @@
   </PassiveDesc>
   <PassiveDesc ID="505424">
     <Name>When Two Realms Meet</Name>
-    <Desc>
-      Changes behavior when all Hermit’s Staves are defeated. On the first Scene of the new cycle, attacks Roland.
-      After attacking Roland again on the second Scene, again on the second Scene, uses a Mass Attack page that summons more Hermit’s Staves.
-    </Desc>
+    <Desc>Changes behavior when all Hermit’s Staves are defeated. On the first Scene of the new cycle, attacks Roland.
+After attacking Roland again on the second Scene, again on the second Scene, uses a Mass Attack page that summons more Hermit’s Staves.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505431">
     <Name>Hermit’s Staff</Name>
@@ -577,68 +573,52 @@
   </PassiveDesc>
   <PassiveDesc ID="505502">
     <Name>Worthless Greed</Name>
-    <Desc>
-      Combat Pages used against this character lose 5 Power unless the 'Magical Girl of Happiness' is the user.
-      Each time this character loses a clash, a random ally gains the Combat Page 'Fragment of Bliss'. Uses a Mass Attack page 'The Road of Gold' on the second Scene.
-      If all allies negate the attack of 'The Road of Gold', loses 50 HP and shifts to 'Hate' mode next Scene.
-      If any ally is hit, deal 10 damage to all librarians and restore 20 HP.
-      On a successful hit, deals bonus damage equal to the amount of Bleed on the target.
-    </Desc>
+    <Desc>Combat Pages used against this character lose 5 Power unless the 'Magical Girl of Happiness' is the user.
+Each time this character loses a clash, a random ally gains the Combat Page 'Fragment of Bliss'. Uses a Mass Attack page 'The Road of Gold' on the second Scene.
+If all allies negate the attack of 'The Road of Gold', loses 50 HP and shifts to 'Hate' mode next Scene.
+If any ally is hit, deal 10 damage to all librarians and restore 20 HP.
+On a successful hit, deals bonus damage equal to the amount of Bleed on the target.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505503">
     <Name>Pointless Hate</Name>
-    <Desc>
-      Combat Pages used against this character lose 5 Power unless the 'Magical Girl of Love' is the user.
-      After winning 10 total clashes, uses a Mass Attack page 'Arcana Slave' on the next Scene.
-      If the Magical Girl of Love uses 'Arcana Slave!', loses 50 HP and shifts to 'Despair' mode next Scene.
-    </Desc>
+    <Desc>Combat Pages used against this character lose 5 Power unless the 'Magical Girl of Love' is the user.
+After winning 10 total clashes, uses a Mass Attack page 'Arcana Slave' on the next Scene.
+If the Magical Girl of Love uses 'Arcana Slave!', loses 50 HP and shifts to 'Despair' mode next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505504">
     <Name>Meaningless Despair</Name>
-    <Desc>
-      Combat Pages used against this character lose 5 Power unless the 'Magical Girl of Justice' is the user.
-      If all dice on a Combat Page this character uses lose or draw in a clash, that page will be locked out starting with the next Scene.
-      If all three pages are locked out, loses 50 HP and shifts to 'Wrath' mode next Scene.
-    </Desc>
+    <Desc>Combat Pages used against this character lose 5 Power unless the 'Magical Girl of Justice' is the user.
+If all dice on a Combat Page this character uses lose or draw in a clash, that page will be locked out starting with the next Scene.
+If all three pages are locked out, loses 50 HP and shifts to 'Wrath' mode next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505505">
     <Name>Senseless Wrath</Name>
-    <Desc>
-      Combat Pages used against this character lose 5 Power unless the 'Magical Girl of Courage' is the user.
-      Uses a Mass Attack page every 2 Scenes. Upon becoming Staggered, loses 50 HP and shifts to 'Nihil' mode.
-    </Desc>
+    <Desc>Combat Pages used against this character lose 5 Power unless the 'Magical Girl of Courage' is the user.
+Uses a Mass Attack page every 2 Scenes. Upon becoming Staggered, loses 50 HP and shifts to 'Nihil' mode.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505511">
     <Name>Petrified Hate</Name>
-    <Desc>
-      The Magical Girl of Love will stand in for the librarian that breaks this statue at the start of the next Scene.
-      If a Magical Girl breaks the statue, the librarian with the lowest current HP will be replaced instead.
-      Magical Girls possess special Key pages with unique stats, passive abilities and Combat Pages.
-    </Desc>
+    <Desc>The Magical Girl of Love will stand in for the librarian that breaks this statue at the start of the next Scene.
+If a Magical Girl breaks the statue, the librarian with the lowest current HP will be replaced instead.
+Magical Girls possess special Key pages with unique stats, passive abilities and Combat Pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505521">
     <Name>Ossified Despair</Name>
-    <Desc>
-      The Magical Girl of Justice will stand in for the librarian that breaks this statue at the start of the next Scene.
-      If a Magical Girl breaks the statue, the librarian with the lowest current HP will be replaced instead.
-      Magical Girls possess special Key pages with unique stats, passive abilities and Combat Pages.
-    </Desc>
+    <Desc>The Magical Girl of Justice will stand in for the librarian that breaks this statue at the start of the next Scene.
+If a Magical Girl breaks the statue, the librarian with the lowest current HP will be replaced instead.
+Magical Girls possess special Key pages with unique stats, passive abilities and Combat Pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505531">
     <Name>Fossilized Greed</Name>
-    <Desc>
-      The Magical Girl of Happiness will stand in for the librarian that breaks this statue at the start of the next Scene.
-      If a Magical Girl breaks the statue, the librarian with the lowest current HP will be replaced instead.
-      Magical Girls possess special Key pages with unique stats, passive abilities and Combat Pages.
-    </Desc>
+    <Desc>The Magical Girl of Happiness will stand in for the librarian that breaks this statue at the start of the next Scene.
+If a Magical Girl breaks the statue, the librarian with the lowest current HP will be replaced instead.
+Magical Girls possess special Key pages with unique stats, passive abilities and Combat Pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505541">
     <Name>Lapidified Wrath</Name>
-    <Desc>
-      The Magical Girl of Courage will stand in for the librarian that breaks this statue at the start of the next Scene.
-      If a Magical Girl breaks the statue, the librarian with the lowest current HP will be replaced instead.
-      Magical Girls possess special Key pages with unique stats, passive abilities and Combat Pages.
-    </Desc>
+    <Desc>The Magical Girl of Courage will stand in for the librarian that breaks this statue at the start of the next Scene.
+If a Magical Girl breaks the statue, the librarian with the lowest current HP will be replaced instead.
+Magical Girls possess special Key pages with unique stats, passive abilities and Combat Pages.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505561">
     <Name>Sword without an Owner</Name>
@@ -746,11 +726,11 @@
   </PassiveDesc>
     <PassiveDesc ID="605302">
     <Name>Melted Corpses</Name>
-    <Desc>Each time the character loses more than 25% of the Max. HP (62/87/112), 'Melting Corpses' is spawned at the start of the next Scene.</Desc>
+    <Desc>Each time the character loses more than 25% of the Max HP (62/87/112), 'Melting Corpses' is spawned at the start of the next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605311">
     <Name>Dividing</Name>
-    <Desc>Divides into corpses when HP drops to 0. If all corpses are defeated within 3 Scenes, the battle progresses to the next phase. Otherwise, the character revives as Stage 1. (Upon revival, it will recover HP by the sum of the HP all remaining Melting Corpses had.)</Desc>
+    <Desc>Divides into corpses when HP drops to 0. If all corpses are defeated within 3 Scenes, the battle progresses to the next phase. Otherwise, the character revives as Stage 1. (On revival, it will recover HP by the sum of the HP all remaining Melting Corpses had.)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605312">
     <Name>Growing Mass</Name>
@@ -788,17 +768,13 @@
   </PassiveDesc>
   <PassiveDesc ID="605413">
     <Name>Banquet of Blood</Name>
-    <Desc>
-      If the character has 5 or more Blood, uses a Mass Attack page: 'Banquet of Blood'. (Has a 3 Scene cooldown.)
-      If the character did not use the page for the first 4 Scenes of the phase, it will be used on the 5th Scene.
-    </Desc>
+    <Desc>If the character has 5 or more Blood, uses a Mass Attack page: 'Banquet of Blood'. (Has a 3 Scene cooldown.)
+If the character did not use the page for the first 4 Scenes of the phase, it will be used on the 5th Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605414">
     <Name>Shapeshifting</Name>
-    <Desc>
-      If HP falls to 50% or lower, shapeshift next Scene. HP does not go below 50% before this.
-      Upon shapeshifting, defeat all Sanguine Bats and gain 5 Blood.
-    </Desc>
+    <Desc>If HP falls to 50% or lower, shapeshift next Scene. HP does not go below 50% before this.
+Upon shapeshifting, defeat all Sanguine Bats and gain 5 Blood.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605431">
     <Name>Shapeshifting</Name>
@@ -818,10 +794,8 @@
   </PassiveDesc>
   <PassiveDesc ID="605435">
     <Name>Lust for Blood</Name>
-    <Desc>
-      If the character has 0 Blood, uses a Mass Attack page: 'Lust for Blood'. (Has a 3 Scene cooldown.)
-      If the character did not use the page for 3 Scenes after shapeshifting, it will be used on the 4th Scene.
-    </Desc>
+    <Desc>If the character has 0 Blood, uses a Mass Attack page: 'Lust for Blood'. (Has a 3 Scene cooldown.)
+If the character did not use the page for 3 Scenes after shapeshifting, it will be used on the 4th Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605421">
     <Name>Fear of Water</Name>
@@ -840,11 +814,11 @@
   </PassiveDesc>
   <PassiveDesc ID="605521">
     <Name>Still Evolving</Name>
-    <Desc>After 2 Scenes pass, evolve into the third form. The HP of the third form depends on the amount of HP this current form has left at the moment of evolution. (Min. 70% of Max. HP)</Desc>
+    <Desc>After 2 Scenes pass, evolve into the third form. The HP of the third form depends on the amount of HP this current form has left at the moment of evolution. (Min. 70% of Max HP)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605522">
     <Name>Regenerative</Name>
-    <Desc>At the start of the Scene, recover 50% of Max. HP.</Desc>
+    <Desc>At the start of the Scene, recover 50% of Max HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605531">
     <Name>Hardness</Name>
@@ -852,7 +826,7 @@
   </PassiveDesc>
   <PassiveDesc ID="605532">
     <Name>Regenerative</Name>
-    <Desc>If the character took 80 or less damage within a Scene, recovers 10% of Max. HP at the end of the Scene.</Desc>
+    <Desc>If the character took 80 or less damage within a Scene, recovers 10% of Max HP at the end of the Scene.</Desc>
   </PassiveDesc>
 
   <!-- Chesed -->
@@ -890,10 +864,8 @@
   </PassiveDesc>
   <PassiveDesc ID="705212">
     <Name>Still Not Enough</Name>
-    <Desc>
-      Each Scene, targets the character with the most Light.
-      When attacking, all dice gain Power equal to the amount of Light the target has.
-    </Desc>
+    <Desc>Each Scene, targets the character with the most Light.
+When attacking, all dice gain Power equal to the amount of Light the target has.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705213">
     <Name>A Warm Heart</Name>
@@ -909,10 +881,8 @@
   </PassiveDesc>
   <PassiveDesc ID="705216">
     <Name>Empty Chest</Name>
-    <Desc>
-      If the character has no Warm Heart for 2 Scenes, becomes Staggered at the start of the next Scene.
-      Cull a Tree with the lowest HP when recovering from Stagger.
-    </Desc>
+    <Desc>If the character has no Warm Heart for 2 Scenes, becomes Staggered at the start of the next Scene.
+Cull a Tree with the lowest HP when recovering from Stagger.</Desc>
   </PassiveDesc>
 
   <!-- 집으로 가는 길-->
@@ -927,11 +897,9 @@ If the Combat Page hits 'Home', the battle is lost.
 The attack on the 'Home' is canceled if all librarians with 'Yellow Brick Road' win the clash against 'Friends! Let’s Go Home~!'.</Desc>  </PassiveDesc>
   <PassiveDesc ID="705313">
     <Name>You… Gosh Darned Wizard…!</Name>
-    <Desc>
-      After the character's attack towards 'Home' has been canceled twice, all resistances change to "Fatal", and uses a powerful Mass Attack the following Scene.
-      If any librarian is hit by the attack, the 'Home' is spawned next Scene.
-      If no librarian is damaged by the attack, the character becomes Staggered next Scene, and the 'Home' is spawned the Scene after the Stagger.
-    </Desc>
+    <Desc>After the character's attack towards 'Home' has been canceled twice, all resistances change to "Fatal", and uses a powerful Mass Attack the following Scene.
+If any librarian is hit by the attack, the 'Home' is spawned next Scene.
+If no librarian is damaged by the attack, the character becomes Staggered next Scene, and the 'Home' is spawned the Scene after the Stagger.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705321">
     <Name>Courageous</Name>
@@ -963,19 +931,15 @@ The attack on the 'Home' is canceled if all librarians with 'Yellow Brick Road' 
   </PassiveDesc>
   <PassiveDesc ID="705422">
     <Name>Who’s the Real Deal?</Name>
-    <Desc>
-      Only one of the Jacks that awaken is real; the rest are fakes.
-      Whenever a librarian with Oblivion hits the real Jack, it gives back a Combat Page that was stolen from them.
-      The screen blinks when the real Jack is hit.
-    </Desc>
+    <Desc>Only one of the Jacks that awaken is real; the rest are fakes.
+Whenever a librarian with Oblivion hits the real Jack, it gives back a Combat Page that was stolen from them.
+The screen blinks when the real Jack is hit.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705423">
     <Name>Steal or be Stolen</Name>
-    <Desc>
-      After the librarian with Oblivion hits the real Jack 9 times, all Jacks die.
-      If the condition isn't fulfilled within 3 Scenes of Oblivion being applied, the librarian with the status is turned into a pumpkin next Scene.
-      Afterwards, the real Jack transforms into 'Jack Revived', and permanently uses the Key page and Combat Pages of the librarian that had Oblivion.
-    </Desc>
+    <Desc>After the librarian with Oblivion hits the real Jack 9 times, all Jacks die.
+If the condition isn't fulfilled within 3 Scenes of Oblivion being applied, the librarian with the status is turned into a pumpkin next Scene.
+Afterwards, the real Jack transforms into 'Jack Revived', and permanently uses the Key page and Combat Pages of the librarian that had Oblivion.</Desc>
   </PassiveDesc>
 
 
@@ -983,26 +947,20 @@ The attack on the 'Home' is canceled if all librarians with 'Yellow Brick Road' 
   <!-- 마법사 공통-->
   <PassiveDesc ID="705510">
     <Name>The Wizard's Trial</Name>
-    <Desc>
-      Five phases play out in a set order. If all five phases have been passed, proceed to the 'Anger' phase.
-      Is immune to Stagger damage before The Road Home's phase starts. Is immune to physical damage before the Anger phase starts.
-    </Desc>
+    <Desc>Five phases play out in a set order. If all five phases have been passed, proceed to the 'Anger' phase.
+Is immune to Stagger damage before The Road Home's phase starts. Is immune to physical damage before the Anger phase starts.</Desc>
   </PassiveDesc>
   <!-- 마법사 1막-->
   <PassiveDesc ID="705511">
     <Name>The Trial Commences</Name>
-    <Desc>
-      When the phase begins, dead librarians come back to life with full HP.
-      Add 5 special Combat Pages to the hands of all librarians. The following phases can be overcome using their special powers.
-    </Desc>
+    <Desc>When the phase begins, dead librarians come back to life with full HP.
+Add 5 special Combat Pages to the hands of all librarians. The following phases can be overcome using their special powers.</Desc>
   </PassiveDesc>
   <!-- 마법사 2막-->
   <PassiveDesc ID="705512">
     <Name>Show Me Your Warm Heart</Name>
-    <Desc>
-      Limits the amount of Light of all librarians other than the one with the Woodsman's status.
-      If all 'Emerald Crystals' are destroyed within 2 Scenes, proceed to the Scarecrow's phase next Scene.
-    </Desc>
+    <Desc>Limits the amount of Light of all librarians other than the one with the Woodsman's status.
+If all 'Emerald Crystals' are destroyed within 2 Scenes, proceed to the Scarecrow's phase next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705513">
     <Name>How Hollow a Heart</Name>
@@ -1011,11 +969,9 @@ The attack on the 'Home' is canceled if all librarians with 'Yellow Brick Road' 
   <!-- 마법사 3막-->
   <PassiveDesc ID="705514">
     <Name>Show Me Your Wisdom</Name>
-    <Desc>
-      Turn all librarians other than the one with the Scarecrow's status into 'Shining Statues'.
-      A copy of 'Wisdom' and 4 special Combat Pages are added to the Scarecrow librarian's hand.
-      Proceed to the Cat's phase next Scene.
-    </Desc>
+    <Desc>Turn all librarians other than the one with the Scarecrow's status into 'Shining Statues'.
+A copy of 'Wisdom' and 4 special Combat Pages are added to the Scarecrow librarian's hand.
+Proceed to the Cat's phase next Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705515">
     <Name>What Worthless Wisdom</Name>
@@ -1024,10 +980,8 @@ The attack on the 'Home' is canceled if all librarians with 'Yellow Brick Road' 
   <!-- 마법사 3막-->
   <PassiveDesc ID="705516">
     <Name>Show Me Your Courage</Name>
-    <Desc>
-      Inflict all librarians with 10 Feeble, Disarm, and Fragile for 2 Scenes.
-      If all 'Scowling Faces' are defeated, proceed to The Road Home's phase the following Scene.
-    </Desc>
+    <Desc>Inflict all librarians with 10 Feeble, Disarm, and Fragile for 2 Scenes.
+If all 'Scowling Faces' are defeated, proceed to The Road Home's phase the following Scene.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705517">
     <Name>Twas Certain of Catly Cowardice</Name>
@@ -1081,10 +1035,8 @@ The attack on the 'Home' is canceled if all librarians with 'Yellow Brick Road' 
   </PassiveDesc>
   <PassiveDesc ID="805213">
     <Name>Punishment!</Name>
-    <Desc>
-      In Punishment mode, the number of Speed dice increases to 5 for one Scene, and uses a special Combat Page against the character that attacked him last.
-      Also, all Stagger damage resistances change to "Fatal".
-    </Desc>
+    <Desc>In Punishment mode, the number of Speed dice increases to 5 for one Scene, and uses a special Combat Page against the character that attacked him last.
+Also, all Stagger damage resistances change to "Fatal".</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805221">
     <Name>To Protect…</Name>
@@ -1126,7 +1078,7 @@ The attack on the 'Home' is canceled if all librarians with 'Yellow Brick Road' 
   </PassiveDesc>
   <PassiveDesc ID="805316">
     <Name>Overflowing Misdeeds</Name>
-    <Desc>After using 'Judgement' or 'Ceaseless Judgement', lose 25% of Max. Stagger Resist.</Desc>
+    <Desc>After using 'Judgement' or 'Ceaseless Judgement', lose 25% of Max Stagger Resist.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805321">
     <Name>Piercing Shriek</Name>
@@ -1140,17 +1092,14 @@ The attack on the 'Home' is canceled if all librarians with 'Yellow Brick Road' 
   </PassiveDesc>
   <PassiveDesc ID="805512">
     <Name>The Three Birds</Name>
-    <Desc>
-      Every two Scenes, switch the active egg effect for Apocalypse Bird.
-      The Apocalypse Bird's eggs cycle in the following order: Big Eyes -&gt; Small Beak -&gt; Long Arms -&gt; (Repeat).
-      Roland's resistances change depending on the currently active egg effect.
-    </Desc>
+    <Desc>Every two Scenes, switch the active egg effect for Apocalypse Bird.
+The Apocalypse Bird's eggs cycle in the following order: Big Eyes -&gt; Small Beak -&gt; Long Arms -&gt; (Repeat).
+Roland's resistances change depending on the currently active egg effect.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805521">
     <Name>Cracking Eggs</Name>
     <Desc>If Staggered while the Apocalypse Bird's egg effect is active, the character will lose HP, and the currently active egg effect will be permanently expired.
-At the start of the next Scene, recover from Stagger, purge all status ailments, and gain 2 Strength and Endurance.
-    </Desc>
+At the start of the next Scene, recover from Stagger, purge all status ailments, and gain 2 Strength and Endurance.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805513">
     <Name>Eternal Peace</Name>
@@ -1202,7 +1151,7 @@ At the start of the next Scene, recover from Stagger, purge all status ailments,
   </PassiveDesc>
   <PassiveDesc ID="9055121">
     <Name>The time has come.</Name>
-    <Desc>Uses the Combat Page 'Rise and Serve Me' on the first Scene. Starting with the third Scene, uses the Combat Page 'I am thy Saviour' every 3 Scenes.</Desc> <!-- Waiting for confirmation from Yumi on this one -->
+    <Desc>Uses the Combat Page 'Rise and Serve Me' on the first Scene. Starting with the third Scene, uses the Combat Page 'I am thy Saviour' every 3 Scenes.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="9055122">
     <Name>Rise, my servants. Rise and serve me.</Name>
@@ -1231,6 +1180,10 @@ At the start of the next Scene, recover from Stagger, purge all status ailments,
   <PassiveDesc ID="905502">
     <Name>I will Follow Thee</Name>
     <Desc>Offensive dice gain +2 Power against librarians afflicted with 'Revelation'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="905503">
+    <Name>Immunity</Name>
+    <Desc>Immune to Burn, Bleed, and Erosion.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="905521">
     <Name>Guardian</Name>
@@ -1266,7 +1219,7 @@ If this character is Suspended, Angela's resistances will change to "Fatal" next
   </PassiveDesc>
   <PassiveDesc ID="1005013">
     <Name>Director of her Role’s Namesake</Name>
-    <Desc>Draw 2 additional pages at the start of the Act. At the start of the Scene, restore 1 Light and draw 1 page.</Desc>
+    <Desc>Draw 2 more pages at the start of the Act. At the start of the Scene, restore 1 Light and draw 1 page.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005014">
     <Name>The Seed of Light</Name>

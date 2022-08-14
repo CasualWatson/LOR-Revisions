@@ -33,7 +33,7 @@ Gain Power by half the current Emotion Level (Rounded down)</Desc>
   </PassiveDesc>
     <PassiveDesc ID="1301018">
     <Name>Overheat</Name>
-    <Desc>If the character has 15 or more Burn at the start of the Scene, become Overheated, dealing more damage with attacks but becoming more vulnerable to Stagger damage.</Desc>
+    <Desc>If the character has 15 or more Burn at the start of the Scene, become Overheated, dealing +3 more damage with attacks but becoming more vulnerable to Stagger damage.</Desc>
   </PassiveDesc>
 
   <!--1페이즈에 나옴-->
@@ -57,7 +57,7 @@ Gain Power by half the current Emotion Level (Rounded down)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1301022">
     <Name>Overheat</Name>
-    <Desc>If the character has 15 or more Burn at the start of the Scene, become Overheated, dealing more damage with attacks but becoming more vulnerable to Stagger damage.</Desc>
+    <Desc>If the character has 15 or more Burn at the start of the Scene, become Overheated, dealing more +3 damage with attacks but becoming more vulnerable to Stagger damage.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1301023">
     <Name>Combustion</Name>
