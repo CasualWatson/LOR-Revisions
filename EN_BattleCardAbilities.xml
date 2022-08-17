@@ -1083,7 +1083,7 @@
 
   <!-- binah -->
   <BattleCardAbility ID="protection3friendThisRound">
-    <Desc>[On Use] Give 3 Protection to all allies</Desc>
+    <Desc>[On Use] Give 3 Protection to all allies this scene</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="drawUntil4">
     <Desc>[On Use] Draw until there are 4 pages in hand</Desc>
@@ -1182,7 +1182,7 @@
     <Desc>[Combat Start] Give 1 Strength to 2 other allies</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="copyMostCost">
-    <Desc>[On Use] Copy the page with the highest original cost in hand.</Desc>
+    <Desc>[On Use] Make a copy of the page with the highest original cost in hand.</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="costdown">
     <Desc>This page's Cost is lowered by the number of other 'Rapid Gashes' in hand</Desc>
@@ -1222,13 +1222,13 @@
 
   <!-- geburah ego -->
   <BattleCardAbility ID="wolfEgo">
-    <Desc>Dice on this page do not deal damage or Stagger damage on hit</Desc>
+    <Desc>[On Hit] Dice on this page do not deal damage or Stagger damage</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="wolfEgoDice1">
     <Desc>This die is rolled 4 times</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="wolfEgoDice2">
-    <Desc>[On Hit] Deal damage equal to the sum of all rolls on this page that would have won clashes or hit the target.</Desc>
+    <Desc>[On Hit] Deal damage equal to the sum of all rolls on this page that have won clashes or hit the target</Desc>
   </BattleCardAbility>
 
   <BattleCardAbility ID="mountainEgoDice">
@@ -2110,7 +2110,7 @@
 
   <!-- added -->
   <BattleCardAbility ID="binahArea">
-    <Desc>[On Use] Give 3 Protection and Stagger Protection to all allies</Desc>
+    <Desc>[On Use] Give 3 Protection and Stagger Protection to all allies this scene</Desc>
   </BattleCardAbility>
 
 

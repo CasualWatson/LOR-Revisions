@@ -1211,7 +1211,7 @@ If any ally is hit, deal 10 damage to all librarians and recover 20 HP.</Ability
     </BattleCardDesc>
     <BattleCardDesc ID="9906215">
       <LocalizedName>Uncontrollable Instinct</LocalizedName>
-      <Behaviour ID="0">This die is rolled 5 times without processing damage, then deal damage equal to the sum of rolls that would have won clashes or hit the target</Behaviour>
+      <Behaviour ID="0">This die is rolled 5 times without processing damage, then deals damage equal to the sum of rolls that have won clashes or hit the target</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9906216">
       <LocalizedName>Howl</LocalizedName>

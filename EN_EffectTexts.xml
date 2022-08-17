@@ -344,11 +344,11 @@ If the character dies with this ailment, a Worker Bee is spawned next Scene.</De
     </BattleEffectText>
     <BattleEffectText ID="BurningGirl_Ember">
       <Name>Ember</Name>
-      <Desc>Max roll value of the first die of pages with 'Matchlight' increases by 1 for each stack. The die inflicts Burn equal to the stacks of Ember on hit. If there are 4 or more stacks of Ember, explode after rolling the first die with a 25% chance, inflicting damage equal to the max roll value to self.</Desc>
+      <Desc>Max roll value of the first die of pages with 'Matchlight' increases by 1 for each stack. The die inflicts Burn equal to the stacks of Ember on hit. If there are 4+ stacks of Ember, explode after rolling the first die with a 25% chance, inflicting damage equal to the max roll value to self.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="SingingMachine_Rhythm">
       <Name>Rhythm</Name>
-      <Desc>While this effect is active, gain 1 Strength at the start of the Scene, and take +2-5 Stagger damage from attacks. Lose 1 Rhythm at the end of the Scene.</Desc>
+      <Desc>While this effect is active, gain 1 Strength at the start of the Scene, and take 2-5 bonus Stagger damage from attacks. Lose 1 Rhythm at the end of the Scene.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Porccubus_Happy">
       <Name>Thrill</Name>
@@ -535,14 +535,14 @@ If the character dies with this ailment, a Worker Bee is spawned next Scene.</De
 
     <BattleEffectText ID="Lumberjack_Cut">
       <Name>A Warm Heart</Name>
-      <Desc>Boost Offensive dice Power by 1-2 if the character has 3 or more Light at the start of the combat phase.</Desc>
+      <Desc>Boost Offensive dice Power by 1-2 if the character has 3+ Light at the start of the combat phase.</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="SnowQueen_Debuf">
       <Name>Chill</Name>
       <Desc>1 Chill is lost at the start of each Scene.
-At the start of the Scene, if the character has 4 or more Chill, gain 2 Bind and Feeble.
-If the character has 6 or more Chill, become Immobilized, and remove all Chill from self at the start of the next Scene.</Desc>
+At the start of the Scene, if the character has 4+ Chill, gain 2 Bind and Feeble.
+If the character has 6+ Chill, become Immobilized, and remove all Chill from self at the start of the next Scene.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Vibrate">
@@ -820,7 +820,7 @@ This effect is disabled upon becoming Staggered.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedHoodFinal_Scar">
       <Name>Scars</Name>
-      <Desc>At the start of the Scene, gain Bleed equal to the amount of Scars. If the amount is 6 or higher at the start of the Scene, take damage equal to 20% of Max HP and remove all stacks. When attacked by the Wolf, take bonus damage equal to the current amount of Scars. The Wolf's dice gain +2 Power against targets with 4 or more Scars.</Desc>
+      <Desc>At the start of the Scene, gain Bleed equal to the amount of Scars. If the amount is 6 or higher at the start of the Scene, take damage equal to 20% of Max HP and remove all stacks. When attacked by the Wolf, take bonus damage equal to the current amount of Scars. The Wolf's dice gain +2 Power against targets with 4+ Scars.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nothing_Skin">
       <Name>Shell</Name>
@@ -828,7 +828,7 @@ This effect is disabled upon becoming Staggered.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nothing_Fear">
       <Name>Terror</Name>
-      <Desc>If the character has 3 or more copies of 'Terror' in hand at the start of the Scene, take 10 damage and Stagger damage for every copy in hand, and become Immobilized for the Scene.</Desc>
+      <Desc>If the character has 3+ copies of 'Terror' in hand at the start of the Scene, take 10 damage and Stagger damage for every copy in hand, and become Immobilized for the Scene.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nothing_Mimic">
       <Name>Imitation</Name>
@@ -938,7 +938,7 @@ If this reaches 2, a powerful Combat Page is used the following Scene.</Desc>
     <!-- Wizard -->
     <BattleEffectText ID="Wizard_Lumberjack">
       <Name>Warm-hearted Woodsman</Name>
-      <Desc>After dealing 30 or more damage to enemies in a single Scene during this character's phase, fully restore Light of all allies including self.</Desc>
+      <Desc>After dealing 30+ damage to enemies in a single Scene during this character's phase, fully restore Light of all allies including self.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Scarecrow">
       <Name>Scarecrow Searching for Wisdom</Name>
@@ -1366,7 +1366,7 @@ Ri - ‘On Use: Draw 2 pages’</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_Kiss">
       <Name>Kiss</Name>
-      <Desc>Prioritizes targeting librarians with Bind. For this Scene, on clash win, inflict Ice Splinter to the opponent. At the end of the Scene, characters with 3 or more Ice Splinters become Immobilized for the next Scene.</Desc>
+      <Desc>Prioritizes targeting librarians with Bind. For this Scene, on clash win, inflict Ice Splinter to the opponent. At the end of the Scene, characters with 3+ Ice Splinters become Immobilized for the next Scene.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_NonTargetable">
       <Name>Ready to Act</Name>
@@ -1377,7 +1377,7 @@ Ri - ‘On Use: Draw 2 pages’</Desc>
   <!--Distorted Philip-->    
    <BattleEffectText ID="Arrest">
      <Name>Restraint</Name>
-     <Desc>This status is not lost at the end of the Scene. If Philip hits a character with 3 or more stacks of this status, they're Immobilized for the next Scene.</Desc>
+     <Desc>This status is not lost at the end of the Scene. If Philip hits a character with 3+ stacks of this status, they're Immobilized for the next Scene.</Desc>
    </BattleEffectText>
    <BattleEffectText ID="Arrest_buf">
      <Name>Restraint</Name>
@@ -1404,7 +1404,7 @@ Ri - ‘On Use: Draw 2 pages’</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Oswald_String">
       <Name>Red Strings</Name>
-      <Desc>In {0} Scenes, if two or more characters have this status, they die, and Mx. Bunny is spawned. If a librarian has this status, they gain 10 Haste at the start of the Scene. Removed if Oswald or Jae-heon dies.</Desc>
+      <Desc>In {0} Scenes, if 2+ characters have this status, they die, and Mx. Bunny is spawned. If a librarian has this status, they gain 10 Haste at the start of the Scene. Removed if Oswald or Jae-heon dies.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Oswald_Vulnerable">
       <Name>Vulnerability</Name>
