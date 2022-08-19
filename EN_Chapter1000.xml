@@ -631,7 +631,7 @@
           <Teller>Baral</Teller>
           <Title>Executioner of the Claw</Title>
           <VoiceFile />
-          <Content>…I’ll finish them.</Content>
+          <Content>…</Content>
         </Dialog>
         <Dialog ID="4" Model="제나">
           <Teller>Zena</Teller>
@@ -679,7 +679,7 @@
           <Teller>Roland</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep1_Roland_4</VoiceFile>
-          <Content>Aight… Thanks for coming. I definitely was not gonna make it through this alone.</Content>
+          <Content>Aight… Thanks for coming. I was definitely not gonna make it through this alone.</Content>
         </Dialog>
         <Dialog ID="12" Model="롤랑_4">
           <Teller>Roland</Teller>
@@ -877,7 +877,7 @@
           <Teller>Gebura</Teller>
           <Title />
           <VoiceFile>ch7_Endbattle_ep3_Gebura_1</VoiceFile>
-          <Content>…Looks like they’re gonna press ahead with the plan.</Content>
+          <Content>…Looks like they’re gonna press ahead.</Content>
         </Dialog>
         <Dialog ID="2" Model="제나">
           <Teller>Zena</Teller>
